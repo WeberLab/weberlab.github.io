@@ -39,7 +39,7 @@
 
   photo: team/oliviacampbell.jpeg
   
-  - name: Anna Zhu, MCISc (She / Hers / Her)
+- name: Anna Zhu, MCISc (She / Hers / Her)
   is_pi: False
   is_current: True
   position: Master's Student in Biomedical Engineering
