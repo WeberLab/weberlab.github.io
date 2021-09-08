@@ -1,30 +1,28 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Alexander Mark Weber
   is_pi: True
   is_current: True
-  position: Associate Professor
-  orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
-  github: https://github.com/rdmorin
-  twitter: https://twitter.com/morinryan
+  position: Assistant Professor (Partner)
+  orcid:  https://orcid.org/000-0001-7295-0775
+  scholar: https://scholar.google.ca/citations?user=nPuyG8gAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Alexander-Weber-7
+  github: https://github.com/weberam2
+  twitter: https://twitter.com/AlexMarkWeber
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
+    <a href="https://www.bcchr.ca/aweber">Dr. Alexander Mark Weber</a> is an Assistant Professor at UBC in the 
+    <a href="https://pediatrics.med.ubc.ca/">Department of Pediatrics</a>, Division of Neurology, 
+    and an Independent Investigator at <a href="https://bcchr.ca/">BC Children's Hospital Research Institute</a> 
+    with the <a href="https://www.bcchr.ca/research/research-themes/brain-behaviour-development"> Brain, Behaviour & Development Theme.</a> 
+    His research interests focus on developing specific and sensitive quantitative biomarkers of anatomical, 
+    functional and metabolic characteristics of brain health in newborns and children.
+    <br>
+    Novel neuroimaging applications may further elucidate the underlying pathological mechanisms associated with 
+    neonatal encephalopathy, Hypoxic-Ischemic Encephalopathy (HIE), seizures, intercranial hemorrhage, or ischemic stroke. 
+    Early recognition and classification combined with brain interventions are key in the prevention or reduction of 
+    progressive and chronic lifelong disabilities such as cerebral palsy, epilepsy, and behavioural and learning disorders. 
+    Currently, objective neuroimaging markers of treatment responses are urgently needed to accelerate clinical trials and 
+    focus our search for effective treatments.
 
-  photo: team/Morin_headshot_2019.gif
+  photo: team/Weber_Alexander_Nov_2019_Photoshoot_5_improved_small.jpg
 
 - name: Dr. Miguel Alcaide
   is_pi: False
