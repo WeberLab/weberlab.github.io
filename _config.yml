@@ -1,17 +1,17 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Quantitative Magnetic Resonance Imaging in Pediatric Brains
+lab_name: Weber Lab
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Alex Weber but borrowed heavily from the Morin laboratory: https://morinlab.github.io
+institution: UBC and BCCHR
+email: aweber@bcchr.ca
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  The Weber Lab is interested in using and improving quantiative MRI methods to look at 
+  the healthy and disordered brain in pediatric populations.
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://weberlab.github.io"
+twitter_username: AlexMarkWeber
+github_username:  weberam2
 images_dir: "/images/"
 
 # Build settings
