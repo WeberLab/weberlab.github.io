@@ -10,7 +10,7 @@ rank: 7
 [aweber@bcchr.ca](mailto:aweber@bcchr.ca)
 
 ## Mailing Address:
-Dr. Alexander Weber
-BC Children’s Hospital Research Institute
-Variety Building, Room 370B, 950 West 28th Avenue,
+Dr. Alexander Weber <br>
+BC Children’s Hospital Research Institute <br>
+Variety Building, Room 370B, 950 West 28th Avenue, <br>
 Vancouver, BC V5Z 4H4
