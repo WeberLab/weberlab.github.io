@@ -49,7 +49,14 @@
   github: https://github.com/acszhu
   twitter: 
   bio: >
-    Anna was raised in Toronto, Ontario. She completed her undergraduate degree at the University of Toronto with a double Major in Neuroscience and Molecular Biology. Shortly after, she began working in the provincial healthcare sector conducting analysis work. During this time, she also became a technical research assistant at the UHN Toronto Rehabilitation Institute (KITE Research Institute) with the Winter Lab under Dr. Geoff Fernie and Dr. Atena Roshan Fekr. Alongside work, she continued her academic studies and pursued a Master of Clinical Science at Western University. She joined the Weber Lab in May 2021 as a Master’s of Applied Science student in the School of Biomedical Engineering. Her project involves developing and investigating the cerebral metabolic rate of oxygen in newborns using advanced MRI methods such as quantitative susceptibility mapping (QSM) and arterial spin labelling (ASL).
+    Anna was raised in Toronto, Ontario. She completed her undergraduate degree at the University of Toronto with
+    a double Major in Neuroscience and Molecular Biology. Shortly after, she began working in the provincial 
+    healthcare sector conducting analysis work. During this time, she also became a technical research assistant 
+    at the UHN Toronto Rehabilitation Institute (KITE Research Institute) with the Winter Lab under Dr. Geoff Fernie
+    and Dr. Atena Roshan Fekr. Alongside work, she continued her academic studies and pursued a Master of Clinical 
+    Science at Western University. She joined the Weber Lab in May 2021 as a Master’s of Applied Science student in 
+    the School of Biomedical Engineering. Her project involves developing and investigating the cerebral metabolic 
+    rate of oxygen in newborns using advanced MRI methods such as quantitative susceptibility mapping (QSM) and arterial spin labelling (ASL).
     <br>In her spare time, she enjoys ultimate frisbee, board games, hiking, cooking, and swimming.
 
   photo: team/annazhu.jpg
@@ -57,18 +64,21 @@
 - name: Allison Mella (She / Hers / Her)
   is_pi: False
   is_current: True
-  position: Master's Student in Dept of Neuroscience
+  position: Master's Student in Neuroscience
   orcid:  
   scholar: 
   researchgate: 
   github: https://github.com/aemella
   twitter: 
   bio: >
-    Born in Edmonton, AB
-    <br>Goes by Allison
-    <br>she/her/hers
-    <br>Finished my BSc (Hons) in Neuroscience at the U of A, 2020
-    <br>Starting my MSc in Neuroscience at UBC, Fall 2021
+    Allison was born and raised in Edmonton, Alberta. She completed her undergraduate degree at the University of 
+    Alberta with a Bachelor of Science with Honors in Neuroscience. Afterwards, she worked as a research assistant for 
+    Dr. Lawrence Richer in the Pediatric Autonomic Clinic at the Stollery Children's Hospital. She joined the Weber 
+    Lab in September 2021 for her Master's in Neuroscience in the Faculty of Medicine at UBC. Her project investigates 
+    the metabolic, functional and structural pathology of Rett Syndrome though using magnetic resonance imaging (MRI) 
+    techniques of magnetic resonance spectroscopy (MRS), functional MRI (fMRI) and diffusion tensor imaging (DTI).
+    <br>
+    In her spare time she enjoys reading, travelling, hiking and running. 
 
   photo: team/allisonmella.jpg
   
