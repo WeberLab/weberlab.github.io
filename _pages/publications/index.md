@@ -11,25 +11,27 @@ Members of the Weber lab indicated in **boldface**
 
 ## 2021 
 
-![QSMneonate](QSMneonate.jpg)
-
 [Quantitative Susceptibility Mapping of Venous Vessels in Neonates With Perinatal Asphyxia](http://www.ajnr.org/content/early/2021/04/01/ajnr.A7086)
 
 **Weber AM**, Zhang Y, Kames C, Rauscher A. _American Journal of Neuroradiology_. April 2021. [doi: 10.3174/ajnr.A7086](https://doi.org/10.3174/ajnr.A7086)
 
-## 2020
+![QSMneonate](QSMneonate.jpg)
 
-![MWIneonate](MWIneonate.png)
+## 2020
 
 [Myelin Water Imaging and R2* Mapping in Neonates: Investigating R2* Dependence on Myelin and Fibre Orientation in Whole Brain White Matter](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4222)
 
 **Weber AM**, Zhang Y, Kames C, Rauscher A. _NMR in Biomedicine_, e4222. March 2020. [doi: 10.1002/nbm.4222](https://doi.org/10.1002/nbm.4222)
+
+![MWIneonate](MWIneonate.png)
 
 ## 2019
 
 [Quantitative Analysis of Punctate White Matter Lesions in Neonates Using Quantitative Susceptibility Mapping and R2* Relaxation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091605/)
 
 Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_. Jul 2019. [doi: 10.3174/ajnr.A6114](https://doi.org/10.3174/ajnr.A6114)
+
+
 
 ## 2018
 
@@ -71,6 +73,8 @@ Anglin RE, Rosebush PI, Noseworthy MD, Tarnopolsky M, **Weber AM**, Soreni N, Ma
 [N-type Ca2+ Channels Carry the Largest Current: Implications for Nanodomains and Transmitter Release](https://www.nature.com/articles/nn.2657)
 
 **Weber AM**, Wong FK, Tufford AR, Schlichter LC, Matveev V, Stanley EF. _Nature Neuroscience_, **13**(11):1348-50. Oct 2010. [doi: 10.1038/nn.2657](https://doi.org/10.1038/nn.2657)
+
+![Calcium](calcium.jpg)
 
 ## 2009
 
