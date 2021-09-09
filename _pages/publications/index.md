@@ -27,17 +27,19 @@ Members of the Weber lab indicated in **boldface**
 
 ## 2019
 
-[Quantitative Analysis of Punctate White Matter Lesions in Neonates Using Quantitative Susceptibility Mapping and R2* Relaxation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091605/)
+[Quantitative Analysis of Punctate White Matter Lesions in Neonates Using Quantitative Susceptibility Mapping and R2* Relaxation](http://www.ajnr.org/content/early/2019/06/20/ajnr.A6114)
 
 Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_. Jul 2019. [doi: 10.3174/ajnr.A6114](https://doi.org/10.3174/ajnr.A6114)
 
-
+![punctate](punctate.jpg)
 
 ## 2018
 
 [Pathological Insights From Quantitative Susceptibility Mapping and Diffusion Tensor Imaging in Ice Hockey Players Pre and Post-concussion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091605/)
 
 **Weber AM**, Pukropski A, Kames C, Jarrett M, Dadachanji S, Taunton J, Li DKB, Rauscher A. _Front Neurol_, **9**:575. Aug 2018. [doi: 10.3389/fneur.2018.00575](https://doi.org/10.3389/fneur.2018.00575)
+
+![mtbi](mtbi.jpg)
 
 <br>
 
