@@ -56,7 +56,7 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 **Weber AM**, Soreni N, Noseworthy MD. _MAGMA_, **27**(4):291-301. Aug 2014. [doi: 10.1007/s10334-013-0420-5](https://doi.org/10.1007/s10334-013-0420-5)
 
-![alcohol](alco
+![alcohol](alcohol.png)
 
 [A Preliminary Study of Functional Connectivity of Medication Naïve Children with Obsessive-Compulsive Disorder](https://www.sciencedirect.com/science/article/abs/pii/S0278584614000773?via%3Dihub)
 
