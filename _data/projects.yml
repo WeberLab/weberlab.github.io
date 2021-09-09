@@ -1,49 +1,54 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
+- name: Investigating the Long-Term Memory of Functional Magnetic Resonance Imaging Time Series
   description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
-    DLBCL patients exhibit variable responses to available therapies such
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
-    gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
-    activated B-cell (ABC) cases typically having worse prognosis than
-    germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup
-    are being actively pursued but up-front identification of patients
-    unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene
-    expression features, these capture only some of the clinical
-    heterogeneity and require tumour RNA, which is not always available.
-    Using comprehensive genomic analyses and by integrating mutation and
-    expression data from over 2000 DLBCL tumours, we seek novel molecular
-    features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and
-    prognostic biomarkers and identify new therapeutic targets for
-    treatment-resistant DLBCLs.
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
-  photo: projects/dhitsig.png
+    Brain activity exhibits a scale-invariant nature: i.e. appears the same at varying levels of
+    scale/magnification. This is shown in neuronal membrane potentials, neural field potentials,
+    electroencephalography (EEG), magnetoencephalography (MEG), and fMRI, and is now seen as an 
+    integral feature of the brain. Scale-invariance is seen throughout nature, is a defining 
+    feature of fractal geometry, and is associated with long-range correlation in time. In the 
+    frequency domain, this is seen as a power-law decrease of the power spectrum, and is separate 
+    but coexists with brain oscillations.
+    <br>
+    Unlike brain oscillations, scale-invariant behaviour is not well understood. Research into this 
+    field of fMRI has revealed that analysis of the signal’s scale-invariant nature enables the 
+    discrimination of white matter and cerebrospinal fluid, active from inactive grey matter during 
+    a block paradigm, between rest and task, and neurological disorders. The scale-invariant phenomena 
+    of fractal signals can be completely characterized by two parameters: the variance and Hurst 
+    exponent (H). Typical Hurst values reported in the brain range between 0.5 to 1.0, with a common 
+    pattern of higher values dominating cortical regions, characterizing scale-invariant signals, 
+    and lower values seen subcortically. More persistent long-memory signals have been found to 
+    localize in the gray matter, with an average voxel-wise H of ~0.8, while white matter and 
+    cerebrospinal fluid tissue types are commonly defined by values closer to 0.5. As neuronal cell 
+    bodies reside in gray matter regions, scale-invariant temporal dynamics are suspected to originate 
+    neuronally and observed persistent scale invariance likely indicates synchronized neuronal 
+    oscillations rather than neurophysiological noise.
+    <br>
+    Scale-invariant analysis of fMRI BOLD signals remains relatively obscure, leaving much work to be 
+    done with regards to developing the best practices for analyses, in understanding and interpreting 
+    results, and the implications for neuroscience. This is where our research program aims to provide 
+    original and innovative contributions to the field.
 
-- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
+  funding: British Columbia Children’s Hospital Research Institute (Establishment Award and Salaries)
+  collaborators: Dr. Tamara Vanderwal
+  assignees:
+  photo: projects/hursthcp.png
+
+- name: Sucrose Therapy in Preterms: A Resting State fMRI Fractal Analysis Study
   description: >
-    Through genomic characterization of DLBCL we identified somatic amplification
-    of the Fc gamma receptor 2B gene (FCGR2B) as a feature in ~5% of cases. We also 
-    found the expression of FCGR2B (by RNA-seq) was prognostic in multiple DLBCL cohorts. 
-    FCGR2B contributes to treatment resistance by promoting the internalization of the 
-    rituximab antibody by malignant cells, allowing them to evade immune detection. 
-    It may therefore serve as an important biomarker to identify high-risk patients and 
-    stratify them to recieve newer immunotherapies that can mitigate the effects of high 
-    FCGR2B expression. Understanding the genetic mechanisms that drive FCGR2B amplification 
-    and overexpression has been complicated by the segmental duplication that affects 
-    the FCGR locus, which makes it difficult to accurately align short reads to FCGR2B 
-    or its closely-related paralog FCGR2C. We have been employing long-read Oxford 
-    Nanopore sequencing and Bionano optical mapping to accurately characterize the 
-    structural and single nucleotide variation within the locus.
-  funding: ASH Foundation
-  collaborators: David Scott
-  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
-  photo: projects/FCGR2B_cropped.png
+    Preterm and critically ill newborns admitted to a NICU undergo repeated skin-breaking procedures that
+    are necessary for their survival. In many parts of Canada, and North America, sucrose is becoming the 
+    accepted clinical standard nonpharmacologic intervention for managing acute procedural pain for these 
+    infants. Although shown to be safe in single doses, not enough studies have evaluated the effects of 
+    repeated doses of sucrose over relatively short periods of time. Furthermore, it is unclear how repeated 
+    doses of sucrose may alter functional brain development at such a critical period. Using data obtained 
+    in collaboration with Dr. Steven Miller at Sick Kids, we propose to use a novel resting state fMRI 
+    analysis method, known as Fractal Analysis, to study the fMRI brain dynamics of preterm infants who 
+    have received different doses of sucrose. This information could help us shed light on how sucrose may 
+    be altering brain signalling at a critical period of brain development.
+
+  funding: British Columbia Children’s Hospital Research Institute (Establishment Award and Salaries)
+  collaborators: Dr. Ruth Grunau
+  assignees: 
+  photo: projects/hurstbabies.png
 
 - name: Resolving clonal structure and evolution patterns in DLBCL
   description: >
