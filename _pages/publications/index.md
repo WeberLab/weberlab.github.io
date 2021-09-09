@@ -62,9 +62,13 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 **Weber AM**, Soreni N, Noseworthy MD. _Progress in Neuropsychopharmacology & Biological Psychiatry_, **53C**:129-136. Apr 2014. [doi: 10.1016/j.pnpbp.2014.04.001](https://doi.org/10.1016/j.pnpbp.2014.04.001)
 
+![ocdrsn](ocdrsn.jpg)
+
 [Proton Magnetic Resonance Spectroscopy of Prefrontal White Matter in Psychotropic Naïve Children and Adolescents with Obsessive-Compulsive Disorder](https://www.sciencedirect.com/science/article/abs/pii/S0925492714000316?via%3Dihub)
 
 **Weber AM**, Soreni N, Stanley JA, Greco A, Mendlowitz S, Szatmari P, Schachar R, Mannasis K, Pires P, Noseworthy MD. _Psychiatry Research_. **222**(1-2):67-74. Apr 2014. [doi: 10.1016/j.pscychresns.2014.02.004](https://doi.org/10.1016/j.pscychresns.2014.02.004)
+
+![ocdspec](ocdspec.jpg)
 
 ## 2013
 
