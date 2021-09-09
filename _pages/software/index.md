@@ -14,17 +14,37 @@ rank: 3
 
 [Rett](https://github.com/WeberLab/Rett)
 
+Various scripts used to process functional, metabolic and anatomical data (3T GE)
+
 **Neonate MRI Analysis** 
 
 [SickKidsFunc](https://github.com/WeberLab/SickKidsFunc)
+
+Formats, converts and preprocess pipeline for pre-term infant data
 
 **MRS Analysis with Tarquin**
 
 [MRSAnalysis](https://github.com/WeberLab/MRSAnalysis)
 
+Analyzes MRS data using Tarquin cli
+
 **Neonate CBF Analysis from GE ASL**
 
 [BCCHR ASL](https://github.com/WeberLab/BCCHR_ASL)
+
+Calculates CBF values based on the PD and PW files from the BCCHR scanner (3T GE750)
+
+**Neonate CMRO2 Analysis**
+
+[CMRO2](https://github.com/WeberLab/CMRO2)
+
+Calculates CMRO2 from CBF and QSM Values
+
+**Fractal Analysis with Hurst Exponent**
+
+[FractalDimension](https://github.com/WeberLab/FractalDimension)
+
+Computes Hurst exponent using Welch's method
 
 **Miscellaneous Scripts**
 
