@@ -58,11 +58,15 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 ![alcohol](alcohol.png)
 
+<br>
+
 [A Preliminary Study of Functional Connectivity of Medication Naïve Children with Obsessive-Compulsive Disorder](https://www.sciencedirect.com/science/article/abs/pii/S0278584614000773?via%3Dihub)
 
 **Weber AM**, Soreni N, Noseworthy MD. _Progress in Neuropsychopharmacology & Biological Psychiatry_, **53C**:129-136. Apr 2014. [doi: 10.1016/j.pnpbp.2014.04.001](https://doi.org/10.1016/j.pnpbp.2014.04.001)
 
 ![ocdrsn](ocdrsn.jpg)
+
+<br>
 
 [Proton Magnetic Resonance Spectroscopy of Prefrontal White Matter in Psychotropic Naïve Children and Adolescents with Obsessive-Compulsive Disorder](https://www.sciencedirect.com/science/article/abs/pii/S0925492714000316?via%3Dihub)
 
