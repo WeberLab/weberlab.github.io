@@ -19,7 +19,7 @@ Members of the Weber lab indicated in **boldface**
 
 ## 2020
 
-![MWIneonate](MWIneonate.jpg)
+![MWIneonate](MWIneonate.png)
 
 [Myelin Water Imaging and R2* Mapping in Neonates: Investigating R2* Dependence on Myelin and Fibre Orientation in Whole Brain White Matter](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4222)
 
