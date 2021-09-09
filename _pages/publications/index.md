@@ -81,3 +81,5 @@ Anglin RE, Rosebush PI, Noseworthy MD, Tarnopolsky M, **Weber AM**, Soreni N, Ma
 [PDLIM5 is Not a Neuronal CaV2.2 Adaptor Protein](https://www.nature.com/articles/nn0809-957a)
 
 Gardezi SR, **Weber AM**, Li Q, Wong FK, Stanley EF. _Nature Neuroscience_, **12**(8):957-8. Aug 2009. [doi: 10.1038/nn0809-957a](https://doi.org/10.1038/nn0809-957a)
+
+![Pdlim5](pdlim5.jpg)
