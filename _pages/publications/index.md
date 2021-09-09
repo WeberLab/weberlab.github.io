@@ -11,6 +11,8 @@ Members of the Weber lab indicated in **boldface**
 
 ## 2021 
 
+![QSMneonate](QSMneonate.jpg)
+
 [Quantitative Susceptibility Mapping of Venous Vessels in Neonates With Perinatal Asphyxia](http://www.ajnr.org/content/early/2021/04/01/ajnr.A7086)
 
 **Weber AM**, Zhang Y, Kames C, Rauscher A. _American Journal of Neuroradiology_. April 2021. [doi: 10.3174/ajnr.A7086](https://doi.org/10.3174/ajnr.A7086)
