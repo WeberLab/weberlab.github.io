@@ -36,6 +36,7 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 **Weber AM**, Pukropski A, Kames C, Jarrett M, Dadachanji S, Taunton J, Li DKB, Rauscher A. _Front Neurol_, **9**:575. Aug 2018. [doi: 10.3389/fneur.2018.00575](https://doi.org/10.3389/fneur.2018.00575)
 
 <br>
+
 ***
 
 ### Two Year Post PhD Sabbatical in Whitehorse, YT Working with Youth
