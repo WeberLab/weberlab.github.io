@@ -76,6 +76,8 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 Anglin RE, Rosebush PI, Noseworthy MD, Tarnopolsky M, **Weber AM**, Soreni N, Mazurek MF. _Canadian Medical Association Journal Open_, **1**(1):E48-55. Apr 2013. [doi: 10.9778/cmajo.20120020](https://doi.org/10.9778/cmajo.20120020)
 
+![lcm](lcm.jpg)
+
 ## 2010
 
 [N-type Ca2+ Channels Carry the Largest Current: Implications for Nanodomains and Transmitter Release](https://www.nature.com/articles/nn.2657)
