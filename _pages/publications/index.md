@@ -53,7 +53,7 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 ***
 
-### Two Year Post PhD Sabbatical in Whitehorse, YT Working with Youth
+### Two year post PhD sabbatical in Whitehorse, YT working with youth
 
 ***
 <br>
