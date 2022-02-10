@@ -9,6 +9,14 @@ rank: 4
 
 Members of the Weber lab indicated in **boldface**
 
+## 2022
+
+[Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions](https://doi.org/10.3389/fphys.2021.809943)
+
+**Campbell OL**, Vanderwal T<sup>\*</sup>, **Weber AM**<sup>\*</sup>. _Frontiers in Physiology_. January 11, 2022. [doi: 10.3389/fphys.2021.809943](https://doi.org/10.3389/fphys.2021.809943)
+
+![fractal](Fractal.jpg)
+
 ## 2021 
 
 [Quantitative Susceptibility Mapping of Venous Vessels in Neonates With Perinatal Asphyxia](http://www.ajnr.org/content/early/2021/04/01/ajnr.A7086)
