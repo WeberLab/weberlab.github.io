@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: ISMRM2022
+permalink: /ismrm2022/
 toggle: on
-rank: 4
+rank: 6
 ---
 
 # ISMRM 2022
