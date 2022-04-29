@@ -26,7 +26,7 @@
 
 - name: Olivia Campbell (She / Hers / Her)
   is_pi: False
-  is_current: True
+  is_current: False
   position: Master of Engineering Student in Biomedical Engineering
   orcid: https://orcid.org/0000-0002-2628-2726 
   scholar: 
