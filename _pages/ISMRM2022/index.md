@@ -11,7 +11,7 @@ rank: 6
 2. [Brain Health in Preterm Infants: Cerebral Metabolic Rate of Oxygen (CMRO2) Using Advanced MRI](#anna)
 3. [Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions](#olivia)
 
-## Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions <a name="johann"></a>
+## Fractal Analysis of the BOLD Signal in Preterm Infants Scanned Shortly After Birth and at Term-Equivalent Age <a name="johann"></a>
 
 **J. Drayne**, BC Children's Hospital Research Institute; **O. Campbell**, BC Children's Hospital Research Institute; C. Chau, BC Children's Hospital Research Institute; S. Miller, SickKids; R. Grunau, BC Children's Hospital Research Institute; **A. M. Weber**, BC Children's Hospital Research Institute
 
