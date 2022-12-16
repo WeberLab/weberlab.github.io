@@ -10,7 +10,9 @@ description: >
   the healthy and disordered brain in pediatric populations.
 baseurl: ""
 url: "https://weberlab.github.io"
-twitter_username: AlexMarkWeber
+mastodon:
+- username: weberam2
+  instance: qoto.org
 github_username:  weberam2
 images_dir: "/images/"
 
