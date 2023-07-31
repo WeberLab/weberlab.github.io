@@ -9,7 +9,28 @@ rank: 4
 
 Members of the Weber lab indicated in **boldface**
 
+## 2023
+
+
 ## 2022
+
+[Orientation Dependence of R2 Relaxation in the Newborn Brain](https://www.sciencedirect.com/science/article/pii/S1053811922008230)
+
+Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_. December 1, 2022. [10.1016/j.neuroimage.2022.119702](https://doi.org/10.1016/j.neuroimage.2022.119702)
+
+![R2Relaxation](R2relax.jpg)
+
+[The Effects of Wearing a 3‐Ply or KN95 Face Mask on Cerebral Blood Flow and Oxygenation](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.28448)
+
+Fotherbill A, Birkl C, Kames C, Su W, **Weber AM**, Rauscher A. _JMRI_. September 30, 2022. [10.1002/jmri.28448](https://doi.org/10.1002/jmri.28448)
+
+![Mask](Mask.jpg)
+
+[Monofractal Analysis of Functional Magnetic Resonance Imaging: An Introductory Review](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25801)
+
+**Campbell OL**, **Weber AM**. _Human Brain Mapping_. June 1, 2022. [do: 10.1002/hbm.25801](https://doi.org/10.1002/hbm.25801)
+
+![Hurst](Hreview.jpg)
 
 [Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions](https://doi.org/10.3389/fphys.2021.809943)
 
