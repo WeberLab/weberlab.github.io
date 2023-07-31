@@ -24,6 +24,33 @@
 
   photo: team/Weber_Alexander_Nov_2019_Photoshoot_5_improved_small.jpg
 
+- name: Lydia Sochan (She / Hers / Her)
+  is_pi: False
+  is_current: True
+  position: Master's Student in Biomedical Engineering
+  orchid:
+  scholar:
+  researchgate:
+  github: lydiasochan
+  twitter:
+  bio: >
+    From Vancouver. BMSc in Biochemistry, UWO
+  photo: team/lydia.png
+
+- name: Gavin Carmichael
+  is_pi: False
+  is_current: True
+  position: Fourth year undergraduate in Integrated Sciences; Thesis project
+  orchid:
+  researchgate:
+  github: 
+  twitter:
+  bio: >
+    Gavin was born in Antofagasta, Chile, but grew up all around the U.S. and Chile (Salt Lake City, Utah; Santiago, Chile; Chicago, Il; Tucson, Az).
+
+  photo:
+
+
 - name: Olivia Campbell (She / Hers / Her)
   is_pi: False
   is_current: False
@@ -41,8 +68,8 @@
   
 - name: Anna Zhu, MCISc (She / Hers / Her)
   is_pi: False
-  is_current: True
-  position: Master's Student in Biomedical Engineering
+  is_current: False
+  position: Master's Student in Biomedical Engineering (Graduated Summer 2023)
   orcid:  
   scholar: 
   researchgate: 
@@ -63,8 +90,8 @@
 
 - name: Allison Mella (She / Hers / Her)
   is_pi: False
-  is_current: True
-  position: Master's Student in Neuroscience
+  is_current: False
+  position: Master's Student in Neuroscience (Graduated Summer 2023)
   orcid:  
   scholar: 
   researchgate: 
