@@ -11,7 +11,7 @@ description: >
 baseurl: ""
 url: "https://weberlab.github.io"
 mastodon:
-- username: weberam2
+  username: weberam2
   instance: qoto.org
 github_username:  weberam2
 images_dir: "/images/"
@@ -25,3 +25,4 @@ permalink: /:title/
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-mastodon_webfinger
