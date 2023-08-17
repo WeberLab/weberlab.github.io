@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
-bundle add jekyll-mastodon_webfinger
+gem 'jekyll-mastodon_webfinger', '~> 1.0', '>= 1.0.2'
