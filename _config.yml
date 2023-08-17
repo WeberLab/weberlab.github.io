@@ -26,3 +26,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-mastodon_webfinger
+  - jekyll/mastodon_webfinger
