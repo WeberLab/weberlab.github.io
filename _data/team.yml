@@ -120,7 +120,7 @@
 
 - name: Gavin Carmichael
   is_pi: False
-  is_current: True
+  is_current: False
   position: Fourth year undergraduate in Integrated Sciences; Thesis project
   orchid:
   researchgate:
