@@ -20,6 +20,7 @@ images_dir: "/images/"
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
+remote_theme: pages-themes/cayman@v0.2.0
 
 #plugins for search engine optimization
 plugins:
@@ -27,3 +28,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-mastodon_webfinger
   - jekyll/mastodon_webfinger
+  - jekyll-remote-theme
