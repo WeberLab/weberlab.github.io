@@ -20,7 +20,7 @@ images_dir: "/images/"
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 
 #plugins for search engine optimization
 plugins:
