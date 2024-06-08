@@ -3,7 +3,7 @@ layout: page
 title: Values
 permalink: /values/
 toggle: on
-rank: 6
+rank: 7
 ---
 
 ## Vision:
