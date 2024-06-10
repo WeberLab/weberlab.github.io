@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Values
+title: Vision, Mission, and Values
 permalink: /values/
 toggle: on
 rank: 7
 ---
 
-## Vision:
+## Vision
 
 We aim to further the understanding of infant brain development and related disorders through the use of state-of-the-art MRI technology and insightful research to facilitate early identification and treatment of neurological complications.
 
 
-## Mission:
+## Mission
 Our mission is to understand the intricate processes of brain development in infants, as well as the intricacies of neurological illnesses, using quantitative MRI approaches. We foster interdisciplinary collaboration by working closely with other specialists and researchers to translate our discoveries into valuable insights and solutions. Overall, we strive to improve the well-being and quality of life for children and families affected by neurological diseases.
 
 
-## Values:
+## Values
 **Diversity:** We value the inclusion of lab members from diverse educational, professional, and cultural backgrounds, recognizing that unique backgrounds provide enriching perspectives.
 
 **Collaboration:** We encourage teamwork, curiosity, and independent thinking to achieve common goals and account for diverse perspectives. We embrace humility, vulnerability (i.e. being wrong), asking any and all questions, 
