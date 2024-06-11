@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision, Mission, and Values
+title: Values
 permalink: /values/
 toggle: on
 rank: 2
