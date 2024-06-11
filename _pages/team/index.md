@@ -3,7 +3,7 @@ layout: page
 title: Team
 permalink: /team/
 toggle: on
-rank: 2
+rank: 3
 ---
 
 <div style="margin-bottom: 2em;">
