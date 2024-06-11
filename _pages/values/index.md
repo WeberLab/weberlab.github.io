@@ -3,7 +3,7 @@ layout: page
 title: Vision, Mission, and Values
 permalink: /values/
 toggle: on
-rank: 7
+rank: 2
 ---
 
 ## Vision
