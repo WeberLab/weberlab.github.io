@@ -9,8 +9,14 @@ rank: 5
 
 Members of the Weber lab indicated in **boldface**
 
-## 2023
+## 2024
 
+## 2023
+[The Effects of Wearing a 3‐Ply or KN95 Face Mask on Cerebral Blood Flow and Oxygenation](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.28448)
+
+Fotherbill A, Birkl C, Kames C, Su W, **Weber AM**, Rauscher A. _JMRI_. September 30, 2022. [10.1002/jmri.28448](https://doi.org/10.1002/jmri.28448)
+
+![Mask](Mask.jpg)
 
 ## 2022
 
@@ -20,11 +26,6 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 ![R2Relaxation](R2relax.jpg)
 
-[The Effects of Wearing a 3‐Ply or KN95 Face Mask on Cerebral Blood Flow and Oxygenation](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.28448)
-
-Fotherbill A, Birkl C, Kames C, Su W, **Weber AM**, Rauscher A. _JMRI_. September 30, 2022. [10.1002/jmri.28448](https://doi.org/10.1002/jmri.28448)
-
-![Mask](Mask.jpg)
 
 [Monofractal Analysis of Functional Magnetic Resonance Imaging: An Introductory Review](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25801)
 
