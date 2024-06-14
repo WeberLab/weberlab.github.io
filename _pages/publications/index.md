@@ -10,6 +10,20 @@ rank: 5
 Members of the Weber lab indicated in **boldface**
 
 ## 2024
+[Cerebrovascular Reactivity Following Spinal Cord Injury](https://meridian.allenpress.com/tscir/article/30/2/78/500875)
+
+**Weber AM**, Nightingale TE, Jarrett M, Lee AHX, **Campbell OL**, Walter M, Lucas SJE, Phillips A, Rauscher A, Krassioukov AV. _Topics in Spinal Cord Injury Rehabilitation 30 (2), 78-95_. May 23, 2024. [doi: 10.46292/sci23-00068 ](https://doi.org/10.46292/sci23-00068)
+
+
+[Changes in cortical grey matter volume with Cognitive Orientation to daily Occupational Performance intervention in children with developmental coordination disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11150831/)
+
+Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18, 1276057_. May 22, 2024. [doi: 10.3389/fnhum.2024.1316117](10.3389/fnhum.2024.1316117)
+
+
+[Cortical grey matter volume differences in children with developmental coordination disorder compared to typically developing children](https://www.frontiersin.org/articles/10.3389/fnhum.2024.1276057/full)
+
+Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18_. May 17, 2024. [doi: 10.3389/fnhum.2024.1276057](https://doi.org/10.3389/fnhum.2024.1276057)
+
 
 ## 2023
 [The Effects of Wearing a 3‐Ply or KN95 Face Mask on Cerebral Blood Flow and Oxygenation](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.28448)
@@ -29,7 +43,7 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 [Monofractal Analysis of Functional Magnetic Resonance Imaging: An Introductory Review](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25801)
 
-**Campbell OL**, **Weber AM**. _Human Brain Mapping_. June 1, 2022. [do: 10.1002/hbm.25801](https://doi.org/10.1002/hbm.25801)
+**Campbell OL**, **Weber AM**. _Human Brain Mapping_. June 1, 2022. [doi: 10.1002/hbm.25801](https://doi.org/10.1002/hbm.25801)
 
 ![Hurst](Hreview.jpg)
 
