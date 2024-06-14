@@ -30,6 +30,14 @@
     font-weight: 300;
 }
 
+.main-menu
+    width: 100%; /* This makes the container take up the full width of the viewport */
+    /* You can adjust the width to any desired value */
+    max-width: 1200px; /* Example: set a maximum width */
+    margin: 0 auto;    /* Center the container */
+    padding: 0 20px;   /* Optional: add padding for spacing */
+}
+
 .site-nav {
     float: left;
     line-height: 56px;
