@@ -14,15 +14,19 @@ Members of the Weber lab indicated in **boldface**
 
 **Weber AM**, Nightingale TE, Jarrett M, Lee AHX, **Campbell OL**, Walter M, Lucas SJE, Phillips A, Rauscher A, Krassioukov AV. _Topics in Spinal Cord Injury Rehabilitation 30 (2), 78-95_. May 23, 2024. [doi: 10.46292/sci23-00068 ](https://doi.org/10.46292/sci23-00068)
 
+![Cerebrovascular Reactivity](cerebrovascular-reactivity.jpeg)
 
 [Changes in cortical grey matter volume with Cognitive Orientation to daily Occupational Performance intervention in children with developmental coordination disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11150831/)
 
 Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18, 1276057_. May 22, 2024. [doi: 10.3389/fnhum.2024.1316117](10.3389/fnhum.2024.1316117)
 
+![Cortical Grey Matter Volume](corticalgreymattervolume.jpeg)
+
 
 [Cortical grey matter volume differences in children with developmental coordination disorder compared to typically developing children](https://www.frontiersin.org/articles/10.3389/fnhum.2024.1276057/full)
 
 Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18_. May 17, 2024. [doi: 10.3389/fnhum.2024.1276057](https://doi.org/10.3389/fnhum.2024.1276057)
+
 
 
 ## 2023
