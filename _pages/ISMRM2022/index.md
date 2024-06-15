@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ISMRM2022
-permalink: /ismrm2022/
+title: Conferences
+permalink: /conferences/
 toggle: on
-rank: 8
+rank: 6
 ---
-
+# **ISMRM 2022**
 # Table of Contents
 1. [Fractal Analysis of the BOLD Signal in Preterm Infants Scanned Shortly After Birth and at Term-Equivalent Age](#johann)
 2. [Brain Health in Preterm Infants: Cerebral Metabolic Rate of Oxygen (CMRO2) Using Advanced MRI](#anna)
