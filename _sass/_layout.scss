@@ -51,23 +51,6 @@
 */
 
  .site-nav {
-    float: center;
-    line-height: 56px;
-    width: 100%;
-
-    .menu-icon {
-        display: none;
-    }
-
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 5px;
-        }
-     }
     position: absolute;
     top: 9px;
     left: $spacing-unit / 2;
