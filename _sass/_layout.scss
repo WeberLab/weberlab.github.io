@@ -45,7 +45,7 @@
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 5px;
+            margin-right: 8px;
         }
     }
 
@@ -55,7 +55,7 @@
         right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
-        border-radius: 8px;
+        border-radius: 5px;
         text-align: right;
         width: inherit;
 
