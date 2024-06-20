@@ -30,7 +30,7 @@
     font-weight: 300;
 }
 
-/* .site-nav {
+.site-nav {
     float: center;
     line-height: 56px;
     width: 1000px;
@@ -48,7 +48,7 @@
             margin-right: 5px;
         }
     }
-*/
+
 
 .site-nav {
     position: absolute;
@@ -69,7 +69,7 @@
         float: none;
     }
     .trigger ul li a {
-        text-align: right;
+        text-align: left;
         margin-left: 0px;
     }
 
