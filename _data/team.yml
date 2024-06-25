@@ -41,6 +41,22 @@
     Lydia has also spent her last three summers working clinically with children with various neurodevelopmental disabilities, e.g. autism, ADHD, etc., at the University of Washington. Lydia’s hobbies include cooking and reading.
   photo: team/lydia.png
 
+- name: Serafima Ermolenko  (She / Hers / Her)
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student in Computer Science
+  orchid:
+  scholar:
+  researchgate:
+  github: https://github.com/seraermolenko
+  twitter:
+  bio: >
+    Sera was born in Pavlodar, Kazakhstan and lived in North Siberia, Russia before moving to Canada at the age of 6. She is a fourth year  
+    undergraduate SFU student with two years in Molecular Biology and Biochemistry and two years in Computer Science. 
+    Sera joined the lab in May 2024. Her project involves creating a signal processing tool in python for fMRI data. 
+    In her spare time, Sera enjoys skiing, hiking, travelling and reading. 
+  photo: team/Sera.heic
+
 - name: Floria Lu (She / Hers / Her)
   is_pi: False
   is_current: True
