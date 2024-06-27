@@ -30,7 +30,7 @@
     font-weight: 300;
 }
 
-/*.site-nav {
+.site-nav {
     float: center;
     line-height: 56px;
     width: 1000px;
@@ -47,9 +47,9 @@
         &:not(:last-child) {
             margin-right: 5px;
         }
-    } */
+    }
 
- .site-nav {
+ /*.site-nav {
     float: center;
     line-height: 56px;
     width: 1000px;
@@ -125,7 +125,7 @@
         margin-right: 0;
     }
     margin-left: 20px;
-    }
+    }*/
     
     @include media-query($on-palm) {
         position: absolute;
