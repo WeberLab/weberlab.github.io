@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 toggle: on
-rank: 8
+rank: 9
 ---
 
 ## JOIN US!
