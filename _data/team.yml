@@ -26,7 +26,7 @@
 
 - name: Lydia Sochan (She / Hers / Her)
   is_pi: False
-  is_current: True
+  is_current: False
   position: Master's Student in Biomedical Engineering
   orchid:
   scholar:
