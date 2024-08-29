@@ -5,7 +5,7 @@ permalink: /labphotos/
 toggle: on
 rank: 8
 ---
-### Lab Outing December 10,2021
+### Lab Outing December 2021
 ![dec2021](lab_outing_dec_10_2021.jpg)
 
 ### Johann presenting at ISMRM May 2022
