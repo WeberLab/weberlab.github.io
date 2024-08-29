@@ -26,6 +26,8 @@ rank: 8
 ### At ISMRM party June 2023
 ![june2023](ismrm_party_june_2023.jpg)
 
+### Lab Outing August 2023
+![aug2023](lab_outing_aug_2023.jpg)
 
 ### Gavin's last day April 2024
 ![gavinapr2024](gavin_april_2024.jpg)
