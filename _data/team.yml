@@ -43,7 +43,7 @@
 
 - name: Serafima Ermolenko  (She / Hers / Her)
   is_pi: False
-  is_current: True
+  is_current: False
   position: Undergraduate Student in Computer Science
   orchid:
   scholar:
