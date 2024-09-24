@@ -57,6 +57,23 @@
     In her spare time, Sera enjoys skiing, hiking, travelling and reading. 
   photo: team/Sera.jpg
 
+- name: Isabel Wilson (She / Hers / Her)
+  is_pi: False
+  is_current: True
+  position: Graduated Student from UBC Integrated Sciences (Neuroscience and Statistics)
+  orchid:
+  scholar:
+  researchgate:
+  github: 
+  twitter:
+  bio: >
+    Isabel was born and raised in Metro Vancouver and did her undergrad at UBC in Integrated Sciences (Neuroscience and Statistics). 
+    To date, her work in neuroimaging has been through a cognitive science lens. She joined the Weber Lab in Sept 2024 because she wanted 
+    to learn how the human brain can also be studied as a complex biological system. She is excited to be involved in a project measuring 
+    the power-law characteristics of the fMRI signal. To relax, Isabel walks, runs, reads, and plays pickleball. 
+  photo: team/Isabel.jpg
+  
+
 - name: Floria Lu (She / Hers / Her)
   is_pi: False
   is_current: True
@@ -67,10 +84,10 @@
   github: https://github.com/florialu
   twitter:
   bio: >
-    Floria was born and mostly raised in Vancouver. She is currently a third year Medical Labratory Science undergraduate student at UBC. 
+    Floria was born and mostly raised in Vancouver. She is currently a third-year Medical Laboratory Science undergraduate student at UBC. 
     She joined the lab in May 2024, hoping to learn more about research and neuroimaging, while helping the lab improve upon 
-    various functions, such as: writing, editing a lab manual; writing, editing a mission/vision statement for the lab; learning how to build
-    a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama/Cdrama. 
+    various functions, such as writing and editing a lab manual; writing a mission/vision statement for the lab; learning how to build
+    a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama. 
   photo: team/Floria_Lu.jpg
 
 
