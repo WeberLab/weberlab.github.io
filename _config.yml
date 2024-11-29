@@ -12,7 +12,7 @@ baseurl: ""
 url: "https://weberlab.github.io"
 mastodon:
   username: weberam2
-  instance: qoto.org
+  instance: mastodon.social
 github_username:  weberam2
 images_dir: "/images/"
 
