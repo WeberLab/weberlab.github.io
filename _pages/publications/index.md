@@ -5,14 +5,42 @@ permalink: /publications/
 toggle: on
 rank: 5
 ---
-\*Authors contributed equally<br>
 
-Members of the Weber lab indicated in **boldface**
+If this page hasn't been updated in a while, you can find an up-to-date publication list on [Dr. Weber's Google Scholar page](https://scholar.google.com/citations?hl=en&user=nPuyG8gAAAAJ&view_op=list_works&sortby=pubdate)  
+\*Authors contributed equally; members of the Weber lab indicated in **boldface**
+
+## 2025
+
+### [The Application of Magnetic Susceptibility Separation for Measuring Cerebral Oxygenation in Preterm Neonates](https://weberlab.github.io/Chisep_CSVO2_Manuscript/)
+
+**Carmichael GT**, Rauscher A, Grunau RE, **Weber AM**. _Pediatric Research 97_. 2025.
+
+<img src="./gavin.png" width="600">
 
 ## 2024
+
+### [Long-range temporal correlation development in resting-state fMRI signal in preterm infants: scanned shortly after birth and at term-equivalent age](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000024)
+
+**Drayne JP**, **Mella AE**, McLean MM, Ufkes S, Chau V, Guo T, Branson HM, Kelly E, Miller SP, Grunau RE, **Weber AM**. _PLOS Complex Systems 1(4)_. Dec 5, 2024 [10.1371/journal.pcsy.0000024](https://doi.org/10.1371/journal.pcsy.0000024)
+
+<!-- ![drayne](./drayne.png) -->
+<img src="drayne.png" width="600">
+
+### [Temporal complexity of the BOLD-signal in preterm versus term infants](https://academic.oup.com/cercor/article/34/10/bhae426/7906856)
+
+**Mella AE**, Vanderwal T, Miller SP, **Weber AM**. _Cerebral Cortex 34(10)_, Oct 2024 [10.1093/cercor/bhae426](https://doi.org/10.1093/cercor/bhae426)
+
+![Temp Complexity](./mella.jpeg)
+
+### [Iron Deficiency and Sleep/Wake Behaviors: A Scoping Review of Clinical Practice Guidelines—How to Overcome the Current Conundrum?](https://www.mdpi.com/2072-6643/16/15/2559)
+
+McWilliams S, Hill O, Ipsiroglu OS, Clemens S, **Weber AM**, Chen M, Connor J, Felt BT, Manconi M, Mattman A, Silvestri R, Simakajornboon N, Smith SM, Stockler S. _Nutrients 16(15)_. August 3, 2024. [10.3390/nu16152559](https://doi.org/10.3390/nu16152559)
+
+<img src="nutrients.png" width="500">
+
 ### [Cerebrovascular Reactivity Following Spinal Cord Injury](https://meridian.allenpress.com/tscir/article/30/2/78/500875)
 
-**Weber AM**, Nightingale TE, Jarrett M, Lee AHX, **Campbell OL**, Walter M, Lucas SJE, Phillips A, Rauscher A, Krassioukov AV. _Topics in Spinal Cord Injury Rehabilitation 30 (2), 78-95_. May 23, 2024. [doi: 10.46292/sci23-00068 ](https://doi.org/10.46292/sci23-00068)
+**Weber AM**, Nightingale TE, Jarrett M, Lee AHX, **Campbell OL**, Walter M, Lucas SJE, Phillips A, Rauscher A, Krassioukov AV. _Topics in Spinal Cord Injury Rehabilitation 30 (2), 78-95_. May 23, 2024. [doi: 10.46292/sci23-00068](https://doi.org/10.46292/sci23-00068)
 
 ![Cerebrovascular Reactivity](cerebrovascular-reactivity.jpeg)
 
@@ -22,14 +50,14 @@ Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neu
 
 ![Cortical Grey Matter Volume](corticalgreymattervolume.jpeg)
 
-
 ### [Cortical grey matter volume differences in children with developmental coordination disorder compared to typically developing children](https://www.frontiersin.org/articles/10.3389/fnhum.2024.1276057/full)
 
 Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18_. May 17, 2024. [doi: 10.3389/fnhum.2024.1276057](https://doi.org/10.3389/fnhum.2024.1276057)
 
-![Cortical Grey Matter](corticalgreymatter.jpeg)
+<img src="corticalgreymatter.jpeg" width="500">
 
 ## 2023
+
 ### [The Effects of Wearing a 3‐Ply or KN95 Face Mask on Cerebral Blood Flow and Oxygenation](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.28448)
 
 Fotherbill A, Birkl C, Kames C, Su W, **Weber AM**, Rauscher A. _JMRI_. September 30, 2022. [10.1002/jmri.28448](https://doi.org/10.1002/jmri.28448)
@@ -44,12 +72,12 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 ![R2Relaxation](R2relax.jpg)
 
-
 ### [Monofractal Analysis of Functional Magnetic Resonance Imaging: An Introductory Review](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25801)
 
 **Campbell OL**, **Weber AM**. _Human Brain Mapping_. June 1, 2022. [doi: 10.1002/hbm.25801](https://doi.org/10.1002/hbm.25801)
 
-![Hurst](Hreview.jpg)
+<!-- ![Hurst](Hreview.jpg) -->
+<img src="Hreview.jpg" width="500">
 
 ### [Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions](https://doi.org/10.3389/fphys.2021.809943)
 
@@ -57,7 +85,7 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 ![fractal](Fractal.jpg)
 
-## 2021 
+## 2021
 
 ### [Quantitative Susceptibility Mapping of Venous Vessels in Neonates With Perinatal Asphyxia](http://www.ajnr.org/content/early/2021/04/01/ajnr.A7086)
 
@@ -75,11 +103,12 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 ## 2019
 
-### [Quantitative Analysis of Punctate White Matter Lesions in Neonates Using Quantitative Susceptibility Mapping and R2* Relaxation](http://www.ajnr.org/content/early/2019/06/20/ajnr.A6114)
+### [Quantitative Analysis of Punctate White Matter Lesions in Neonates Using Quantitative Susceptibility Mapping and R2\* Relaxation](http://www.ajnr.org/content/early/2019/06/20/ajnr.A6114)
 
 Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_. Jul 2019. [doi: 10.3174/ajnr.A6114](https://doi.org/10.3174/ajnr.A6114)
 
-![punctate](punctate.jpg)
+<!-- ![punctate](punctate.jpg) -->
+<img src="punctate.jpg" width="500">
 
 ## 2018
 
@@ -91,11 +120,12 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 <br>
 
-***
+---
 
 ### Two year post PhD sabbatical in Whitehorse, YT working with youth
 
-***
+---
+
 <br>
 
 ## 2014
@@ -128,7 +158,8 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 Anglin RE, Rosebush PI, Noseworthy MD, Tarnopolsky M, **Weber AM**, Soreni N, Mazurek MF. _Canadian Medical Association Journal Open_, **1**(1):E48-55. Apr 2013. [doi: 10.9778/cmajo.20120020](https://doi.org/10.9778/cmajo.20120020)
 
-![lcm](lcm.jpg)
+<!-- ![lcm](lcm.jpg) -->
+<img src="lcm.jpg" width="500">
 
 ## 2010
 
