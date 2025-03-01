@@ -15,7 +15,9 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 **Carmichael GT**, Rauscher A, Grunau RE, **Weber AM**. _Pediatric Research 97_. 2025.
 
-<img src="./gavin.png" alt="" width="600">
+<!-- <img src="./gavin.png" alt="" width="600"> -->
+
+![gavin](gavin.png){: width="600" }
 
 ## 2024
 
