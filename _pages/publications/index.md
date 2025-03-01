@@ -17,7 +17,7 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 <!-- <img src="./gavin.png" alt="" width="600"> -->
 
-![gavin](gavin.png){: width="600" }
+![gavin](gavin.png)
 
 ## 2024
 
