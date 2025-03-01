@@ -15,9 +15,7 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 **Carmichael GT**, Rauscher A, Grunau RE, **Weber AM**. _Pediatric Research 97_. 2025.
 
-<!-- <img src="./gavin.png" alt="" width="600"> -->
-
-![gavin](gavin.png)
+![gavin](gavin.png){: width="600" }
 
 ## 2024
 
@@ -25,20 +23,21 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 **Drayne JP**, **Mella AE**, McLean MM, Ufkes S, Chau V, Guo T, Branson HM, Kelly E, Miller SP, Grunau RE, **Weber AM**. _PLOS Complex Systems 1(4)_. Dec 5, 2024 [10.1371/journal.pcsy.0000024](https://doi.org/10.1371/journal.pcsy.0000024)
 
-<!-- ![drayne](./drayne.png) -->
-<img src="drayne.png" width="600">
+![drayne](./drayne.png){: width="600" }
+
+<!-- <img src="drayne.png" width="600"> -->
 
 ### [Temporal complexity of the BOLD-signal in preterm versus term infants](https://academic.oup.com/cercor/article/34/10/bhae426/7906856)
 
 **Mella AE**, Vanderwal T, Miller SP, **Weber AM**. _Cerebral Cortex 34(10)_, Oct 2024 [10.1093/cercor/bhae426](https://doi.org/10.1093/cercor/bhae426)
 
-![Temp Complexity](./mella.jpeg)
+![Temp Complexity](mella.jpeg)
 
 ### [Iron Deficiency and Sleep/Wake Behaviors: A Scoping Review of Clinical Practice Guidelines—How to Overcome the Current Conundrum?](https://www.mdpi.com/2072-6643/16/15/2559)
 
 McWilliams S, Hill O, Ipsiroglu OS, Clemens S, **Weber AM**, Chen M, Connor J, Felt BT, Manconi M, Mattman A, Silvestri R, Simakajornboon N, Smith SM, Stockler S. _Nutrients 16(15)_. August 3, 2024. [10.3390/nu16152559](https://doi.org/10.3390/nu16152559)
 
-<img src="nutrients.png" width="500">
+![nutrients](nutrients.png){: width="500" }
 
 ### [Cerebrovascular Reactivity Following Spinal Cord Injury](https://meridian.allenpress.com/tscir/article/30/2/78/500875)
 
@@ -56,7 +55,9 @@ Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neu
 
 Malik MA, **Weber AM**, Lang D, Vanderwal T, Zwicker JG. _Frontiers in Human Neuroscience 18_. May 17, 2024. [doi: 10.3389/fnhum.2024.1276057](https://doi.org/10.3389/fnhum.2024.1276057)
 
-<img src="corticalgreymatter.jpeg" width="500">
+<!-- <img src="corticalgreymatter.jpeg" width="500"> -->
+
+![corticalgrey](corticalgreymatter.jpeg){: width="500" }
 
 ## 2023
 
@@ -78,8 +79,9 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 **Campbell OL**, **Weber AM**. _Human Brain Mapping_. June 1, 2022. [doi: 10.1002/hbm.25801](https://doi.org/10.1002/hbm.25801)
 
-<!-- ![Hurst](Hreview.jpg) -->
-<img src="Hreview.jpg" width="500">
+![Hurst](Hreview.jpg){: width="500" }
+
+<!-- <img src="Hreview.jpg" width="500"> -->
 
 ### [Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions](https://doi.org/10.3389/fphys.2021.809943)
 
@@ -109,8 +111,9 @@ Bartels LM, Doucette J, Birkl C, Zhang Y, **Weber AM**, Rauscher A. _NeuroImage_
 
 Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_. Jul 2019. [doi: 10.3174/ajnr.A6114](https://doi.org/10.3174/ajnr.A6114)
 
-<!-- ![punctate](punctate.jpg) -->
-<img src="punctate.jpg" width="500">
+![punctate](punctate.jpg){: width="500" }
+
+<!-- <img src="punctate.jpg" width="500"> -->
 
 ## 2018
 
@@ -160,8 +163,9 @@ Zhang Y, Kames C, Rauscher A, **Weber AM**. _American Journal of Neuroradiology_
 
 Anglin RE, Rosebush PI, Noseworthy MD, Tarnopolsky M, **Weber AM**, Soreni N, Mazurek MF. _Canadian Medical Association Journal Open_, **1**(1):E48-55. Apr 2013. [doi: 10.9778/cmajo.20120020](https://doi.org/10.9778/cmajo.20120020)
 
-<!-- ![lcm](lcm.jpg) -->
-<img src="lcm.jpg" width="500">
+![lcm](lcm.jpg){: width="500" }
+
+<!-- <img src="lcm.jpg" width="500"> -->
 
 ## 2010
 
