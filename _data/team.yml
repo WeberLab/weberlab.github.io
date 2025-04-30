@@ -90,7 +90,21 @@
     a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama. 
   photo: team/Floria_Lu.jpg
 
-
+- name: Erhan Asad Javed (He / His / Him)
+  is_pi: False
+  is_current: True
+  position: Co-op Student
+  orchid:
+  scholar:
+  researchgate:
+  github: 
+  twitter:
+  bio: >
+    Erhan was born in Karachi, Pakistan. He is a fourth-year student studying Mathematics & Data Science at UBC. 
+    He joined the lab in May 2025 as a co-op student, hoping to learn more about advanced machine learning in Python, neural networks and HTML/CSS.
+    He is currently investigating the power-law / scare-invariance of fMRI signals, applying his skills in programming and data analysis.
+    In his spare time, Erhan enjoys playing tennis, basketball, pickleball, hiking, Italian cooking and music. 
+  photo: 
 
 - name: Olivia Campbell (She / Hers / Her)
   is_pi: False
