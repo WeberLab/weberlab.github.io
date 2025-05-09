@@ -11,9 +11,15 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 ## 2025
 
+### [Regional Cerebral Metabolic Rate of Oxygen and Levels of Respiratory Support in Preterm Neonates.](http://doi.org/10.1002/nbm.70065)
+
+![zhu](./zhu_figure4.png){: width="600" }
+
+**Zhu A**, Chau C, Chan N, Chacko A, Holsti L, Grunau RE, & **Weber AM** _NMR in Biomedicine_, April 2025
+
 ### [The Application of Magnetic Susceptibility Separation for Measuring Cerebral Oxygenation in Preterm Neonates](https://weberlab.github.io/Chisep_CSVO2_Manuscript/)
 
-**Carmichael GT**, Rauscher A, Grunau RE, **Weber AM**. _Pediatric Research 97_. 2025.
+**Carmichael GT**, Rauscher A, Grunau RE, **Weber AM**. _Pediatric Research_ 97. 2025.
 
 ![gavin](gavin.png){: width="600" }
 
@@ -21,7 +27,7 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 ### [Long-range temporal correlation development in resting-state fMRI signal in preterm infants: scanned shortly after birth and at term-equivalent age](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000024)
 
-**Drayne JP**, **Mella AE**, McLean MM, Ufkes S, Chau V, Guo T, Branson HM, Kelly E, Miller SP, Grunau RE, **Weber AM**. _PLOS Complex Systems 1(4)_. Dec 5, 2024 [10.1371/journal.pcsy.0000024](https://doi.org/10.1371/journal.pcsy.0000024)
+**Drayne JP**, **Mella AE**, McLean MM, Ufkes S, Chau V, Guo T, Branson HM, Kelly E, Miller SP, Grunau RE, **Weber AM**. _PLOS Complex Systems_ 1(4). Dec 5, 2024 [10.1371/journal.pcsy.0000024](https://doi.org/10.1371/journal.pcsy.0000024)
 
 ![drayne](./drayne.png){: width="600" }
 
