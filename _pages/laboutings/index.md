@@ -6,11 +6,15 @@ toggle: on
 rank: 8
 ---
 
+### Erhan's First Day 2025 
+
+![erhan](erhan.jpg)
+
 ### Lab Lunch 2025
 
 ![lablunch](lablunch2025.jpg)
 
-### Gavin's last day April 2024
+### Gavin's Last Day April 2024
 
 ![gavinapr2024](gavin_april_2024.jpg)
 
