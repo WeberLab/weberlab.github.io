@@ -13,9 +13,9 @@ If this page hasn't been updated in a while, you can find an up-to-date publicat
 
 ### [Regional Cerebral Metabolic Rate of Oxygen and Levels of Respiratory Support in Preterm Neonates.](http://doi.org/10.1002/nbm.70065)
 
-![zhu](zhu_figure4.png){: width="300" }
-
 **Zhu A**, Chau C, Chan N, Chacko A, Holsti L, Grunau RE, & **Weber AM** _NMR in Biomedicine_, April 2025
+
+![zhu](zhu_figure4.png){: width="300" }
 
 ### [The Application of Magnetic Susceptibility Separation for Measuring Cerebral Oxygenation in Preterm Neonates](https://weberlab.github.io/Chisep_CSVO2_Manuscript/)
 
