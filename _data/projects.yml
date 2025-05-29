@@ -1,9 +1,35 @@
 - name: Investigating Brain Dynamics and Power Law Scaling in fMRI BOLD Signals
   description: >
-    Background: Since the 1990s, it has been suggested that the brain operates in a critical state between order and disorder. Systems that exist in a critical state exhibit scale-invariance, power-law distributions, fractal geometry, and long-range correlations. Evidence to support the brain criticality hypothesis comes from many different avenues, both spatial (dendritic branching and small-world network connectivity), and temporal (neurotransmitter release, neuronal firing, local field potentials, and MEG, EEG, and fMRI signals), suggesting that in the brain, criticality is the rule, not the exception. It has been further theorized that existing in this state maximizes signalling efficiency, storage capacity, and flexibility. Thus, being able to properly identify and measure criticality is a key component in trying to understand how the brain functions. Unfortunately, in a rush to investigate and publish findings on criticality in fMRI neuroimaging, a rigorous testing of the assumptions and algorithms used for these purposes has not yet been performed. 
-    Objective: The objective of this student project is to develop a signal-processing tool in Python that will: 1) test whether a signal follows a power-law distribution; 2) categorize the signal as either fractional Gaussian noise (fGn) or fractional Brownian motion (fBm); and 3) accurately report the signal’s Hurst exponent (H) value between 0 and 1. Time permitting, the tool will be used to investigate the nature of fMRI signals and the effects of various preprocessing methods. 
-    Methods: Where possible, previously published Python libraries will be used to simulate power-law distributed signals of known type (fGn vs fBm) and H values. An exhaustive search for previously published H estimation algorithms will be conducted and converted to Python where necessary. Testing will be performed throughout the development process to ensure reliability and performance. 
-    Deliverables: The following deliverables will be provided at the end of the project: 1) A signal pro- cessing tool that includes all of the features described above as well as: can analyze a 4D fMRI file with ∼250,000 voxels in approximately 10 minutes; provides easy to read visual outputs for verification and publication; is flexible and easy to use; has code-base that is well formatted and with easy to understand comments throughout; and is version controlled on a public Github repository; 2) Documentation for the tool, including installation instructions and user instructions; 3) Test cases and testing documentation; 4) A manuscript draft to be submitted for peer-review and published for wider knowledge-translation and dissemination.
+    Background: Since the 1990s, it has been suggested that the brain
+    operates in a critical state between order and disorder. Systems that
+    exist in a critical state exhibit scale-invariance, power-law
+    distributions, fractal geometry, and long-range correlations. Evidence to
+    support the brain criticality hypothesis comes from many different
+    avenues, both spatial (dendritic branching and small-world network
+    connectivity),
+    and temporal (neurotransmitter release, neuronal firing, local field potentials, and MEG, EEG, and fMRI
+    signals), suggesting that in the brain, criticality is the rule, not the exception. It has been further theorized
+    that existing in this state maximizes signalling efficiency, storage capacity, and flexibility. Thus, being able
+    to properly identify and measure criticality is a key component in trying to understand how the brain
+    functions. Unfortunately, in a rush to investigate and publish findings on criticality in fMRI neuroimaging,
+    a rigorous testing of the assumptions and algorithms used for these purposes has not yet been performed.
+    Objective: The objective of this student project is to develop a signal-processing tool in Python that
+    will: 1) test whether a signal follows a power-law distribution; 2) categorize the signal as either fractional
+    Gaussian noise (fGn) or fractional Brownian motion (fBm); and 3) accurately report the signal’s Hurst
+    exponent (H) value between 0 and 1. Time permitting, the tool will be used to investigate the nature of
+    fMRI signals and the effects of various preprocessing methods.
+    Methods: Where possible, previously published Python libraries will be used to simulate power-law
+    distributed signals of known type (fGn vs fBm) and H values. An exhaustive search for previously published
+    H estimation algorithms will be conducted and converted to Python where necessary. Testing will be
+    performed throughout the development process to ensure reliability and performance.
+    Deliverables: The following deliverables will be provided at the end of the project: 1) A signal pro-
+    cessing tool that includes all of the features described above as well as: can analyze a 4D fMRI file with
+    ∼250,000 voxels in approximately 10 minutes; provides easy to read visual outputs for verification and
+    publication; is flexible and easy to use; has code-base that is well formatted and with easy to understand
+    comments throughout; and is version controlled on a public Github repository; 2) Documentation for the
+    tool, including installation instructions and user instructions; 3) Test cases and testing documentation; 4)
+    A manuscript draft to be submitted for peer-review and published for wider knowledge-translation and
+    dissemination.
 
 - name: Functional, Metabolic, and Structural MRI Findings in Rett Syndrome
   description: >
