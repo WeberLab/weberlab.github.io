@@ -1,3 +1,92 @@
+- name: "Revealing Hidden Insights: Deep Learning Recovery of SWI Data to Explore Brain Iron Levels and Neurodevelopment in Preterm Infants"
+  description: >
+    Background: 
+    When babies are born very preterm (2-4 months early), the brain development
+    that typically occurs in the womb takes place instead in the neonatal intensive
+    care unit (NICU). During this period, brain injuries and exposure to repetitive
+    pain and stress can have lasting effects on their neurodevelopment, which
+    researchers are only beginning to understand.1 Advances in medical imaging have
+    provided invaluable tools for studying the developing brain, yet these tools
+    often fall short of their full potential. For instance, Susceptibility Weighted
+    Imaging (SWI) – a magnetic resonance imaging (MRI) sequence commonly used to
+    clinically detect subtle brain injuries – inherently discards valuable
+    quantitative information.2 As a result, these scans are qualitative in nature,
+    meaning pixel values cannot be directly compared across individuals, or used
+    for precise measurements. This discarded information, however, holds
+    significant promise. If we could preserve and analyze the unfiltered SWI data,
+    researchers could apply a method known as Quantitative Susceptibility Mapping
+    (QSM) to extract quantitative measures of venous oxygenation, myelination, iron
+    content, and more. These metrics are critical for answering pressing scientific
+    questions about brain development and injury.3 For example, iron needs to be
+    provided in adequate amounts – not too much and not too little – due to its
+    importance for a remarkable array of essential functions during this period.4
+    Recent advances in artificial intelligence (AI), particularly deep learning
+    (DL), are unlocking new possibilities for recovering this lost information.
+    While large language models such as ChatGPT have captured public attention, DL
+    algorithms are making equally groundbreaking contributions to clinical
+    research. Specifically, DL-based "unfiltering" techniques can restore the data
+    lost during the creation of clinical SWI scans, enabling researchers to perform
+    QSM analyses retrospectively on existing datasets.5,6 To explore this
+    potential, we propose to test several published DL unfiltering algorithms on
+    data acquired through the Preterm Care Study, a collaborative effort led by
+    Drs. Steven Miller and Ruth Grunau. These researchers, and many others around
+    the world, currently lack the tools to unlock the full potential of their SWI
+    data, but with DL-based approaches, this limitation could be overcome, paving
+    the way for new insights into preterm brain development and care. Hypothesis We
+    hypothesize that reduced iron levels in the basal ganglia and deep gray matter,
+    measured using QSM calculated from DL recovered unfiltered SWI data, will
+    correlate with reduced motor and cognitive scores on the Bayley Scales of
+    Infant and Toddler Development in the same infants at 18 months. Aims and
+    Methodology Aims: Apply DL algorithms on the filtered SWI data to recover the
+    unfiltered phase data; Use the unfiltered SWI data to create QSM images in
+    order to investigate correlations of iron levels in deep grey matter of very
+    preterm infants with neurodevelopmental outcomes later in life.
+    <br>
+    Methods: Approximately 120 infants born <32 weeks' gestational age were
+    recruited at BC Women’s Hospital NICU between 2015 and 2019. Imaging took place
+    at BCCH Research MRI Facility on their 3T scanner. Some infants were scanned
+    shortly after birth, some at term-equivalent age, and approximately 60 were
+    scanned at both time-periods. 3D SWI sequences (0.625x0.625x1 mm3) were
+    originally acquired in order to detect, locate, and measure the size of
+    injuries such as brain bleeds and white matter injuries. As well, 3D anatomical
+    scans were acquired, which will be used to segment the brain and isolate the
+    deep grey matter structures using state-of-the-art neonatal segmentation
+    pipelines.7 We plan to make use of previously published DL algorithms5,6, as
+    well as weights that have already been trained on our scanner
+    (github.com/kamesy/homodynenet). QSM images will then be calculated using the
+    recovered unfiltered-phase and the superior rapid two-step dipole inversion
+    method8 and open-source software (github.com/kamesy/QSM.m). Using the deep
+    grey-matter segmentation masks, average magnetic susceptibility values will be
+    calculated for all scans.
+    <br>
+    Statistics: The statistical software R will be used to assess whether a
+    relationship exists between motor and cognitive scores at 18 months and deep
+    gray matter iron levels at preterm and term-equivalent ages. A mixed-effects
+    multiple linear regression model will be employed, treating subjects as random
+    effects to account for the longitudinal nature of the data. Gestational age,
+    sex, number of painful procedures while in the NICU, total brain volume,
+    maternal age at birth, parental socioeconomic status, parental educational
+    level will be also included as covariates to control for and explore potential
+    confounding factors. Significance By testing and validating these algorithms on
+    data from the Preterm Care Study, this project represents an opportunity to
+    harness cutting-edge computational techniques to address pressing questions in
+    preterm brain development. Applying these DL-based unfiltering algorithms to
+    existing datasets with SWI scans would allow researchers to quantify valuable
+    information such as venous oxygenation, myelination, and iron levels
+    retrospectively in hundreds of preterm and neonatal studies worldwide.
+    Feasibility All of the data has already been collected and is available to
+    download from BCCHR’s XNAT server, meaning the most difficult part of the study
+    has already concluded. If the pre-trained DL weights do not produce
+    satisfactory images (i.e. result in noisy QSM images), we have access to
+    unfiltered SWI data in neonates that we can use to train our own weights (data
+    previously collected by Drs. Weber and Grunau; n = 19 infants born very preterm
+    and scanned at term-equivalent age at the same hospital and research MRI
+    facility).
+  funding: NSERC Discovery Grant
+  assignees: Floria Lu
+  collaborators: 
+  photo: 
+
 - name: Investigating Brain Dynamics and Power Law Scaling in fMRI BOLD Signals
   description: >
     Background: Since the 1990s, it has been suggested that the brain
