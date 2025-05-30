@@ -7,16 +7,16 @@ rank: 4
 ---
 
 <div style="margin-bottom: 50px;">
-    <img class="float-right" width="50%" src="{{ 'projects/wordcloud.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
+    <img class="float-right" width="50%" src="{{ 'projects/wordcloud_2025.png' | prepend: site.images_dir | prepend: site.baseurl }}" />
 </div>
 
-**Rett MRI Analysis** 
+### Rett MRI Analysis
 
 [Rett](https://github.com/WeberLab/Rett)
 
 Various scripts used to process functional, metabolic and anatomical data (3T GE)
 
-**Neonate MRI Analysis** 
+**Neonate MRI Analysis**
 
 [SickKidsFunc](https://github.com/WeberLab/SickKidsFunc)
 
@@ -69,5 +69,3 @@ Coming soon...
 * [Johann Drayne](https://github.com/johann997)
 * [Anna Zhu](https://github.com/acszhu)
 * [Allison Mella](https://github.com/aemella)
-
-
