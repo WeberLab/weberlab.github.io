@@ -65,3 +65,7 @@ Coming soon...
 * [Johann Drayne](https://github.com/johann997)
 * [Anna Zhu](https://github.com/acszhu)
 * [Allison Mella](https://github.com/aemella)
+* [Lydia Sochan](https://github.com/lydiasochan)
+* [Floria Lu](https://github.com/florialu)
+* [Sera Ermolenko](https://github.com/seraermolenko)
+* [Erhan Javed](https://github.com/erhanjaved)
