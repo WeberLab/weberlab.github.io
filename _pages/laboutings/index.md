@@ -6,6 +6,14 @@ toggle: on
 rank: 8
 ---
 
+### Lab Outing 2025
+
+![spanishbanks](lab_outing_2025_reduced.JPG)
+
+### Floria Summer Student Research Program Poster Day 
+
+![summerresearchposter](./FloriaSummerResearch_2025.jpg)
+
 ### Erhan's First Day 2025 
 
 ![erhan](erhan.jpg)
