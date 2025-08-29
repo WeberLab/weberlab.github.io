@@ -67,11 +67,13 @@
   github: https://github.com/florialu
   twitter:
   bio: >
-    Floria was born and mostly raised in Vancouver. She is currently a third-year Medical Laboratory Science undergraduate student at UBC. 
-    She joined the lab in May 2024, hoping to learn more about research and neuroimaging, while helping the lab improve upon 
-    various functions, such as writing and editing a lab manual; writing a mission/vision statement for the lab; learning how to build
-    a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama. 
-  photo: team/Floria_Lu.jpg
+    Floria was born in Vancouver. She is a third-year Medical Laboratory Science undergraduate student at UBC. 
+    She joined the lab hoping to learn more about research and neuroimaging, while helping the lab improve upon 
+    various functions, such as writing and editing a lab manual and a mission statement and improving the lab website. 
+    She conducted a literature review of fMRI studies in mTBI using task-based and resting-state methodologies, and she is 
+    working on a project to investigate the use of deep learning to recover lost data in a preterm care study. In her spare time, 
+    Floria enjoys drawing, playing the piano, and dancing. 
+  photo: team/FloriaLu.jpg
 
 - name: Serafima Ermolenko  (She / Hers / Her)
   is_pi: False
