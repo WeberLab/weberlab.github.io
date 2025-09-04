@@ -42,7 +42,7 @@
 
 - name: Isabel Wilson (She / Hers / Her)
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Assistant (September 2024 - August 2025)
   orchid:
   scholar:
