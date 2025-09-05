@@ -2,6 +2,8 @@
 
 In order to edit the website, you should ignore most `.html` files except the main `index.html`
 
+The site is setup with jekyll and github actions. So when you edit the appropriate `.yml` or `.md` files, they will be converted to `.html`
+
 ## Config
 
 The `config.yml` file contains the basic information and configuration for the site (theme, title, etc.)
