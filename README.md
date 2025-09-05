@@ -1,7 +1,15 @@
 # Weber Lab's Website
 
-To change Team members, edit `_data/team.yml`
+In order to edit the website, you should ignore most `.html` files except the main `index.html`
 
-To change Projects, edit `_data/projects.yml`
+## _pages
+
+In `_pages` you will find folders for the different pages. Edit the `.md` file, not the `.html` file
+
+## _data
+
+To change **Team members**, edit `_data/team.yml`
+
+To change **Projects**, edit `_data/projects.yml`
 
 
