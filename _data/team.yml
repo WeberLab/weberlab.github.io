@@ -27,7 +27,7 @@
 - name: Erhan Asad Javed (He / His / Him)
   is_pi: False
   is_current: True
-  position: Co-op Student (May 2025 - Present)
+  position: Undergraduate Student (May 2025 - Present)
   orchid:
   scholar:
   researchgate:
@@ -39,6 +39,22 @@
     He is currently investigating the power-law / scare-invariance of fMRI signals, applying his skills in programming and data analysis.
     In his spare time, Erhan enjoys playing tennis, basketball, pickleball, hiking, Italian cooking and music. 
   photo: team/Erhan.jpg
+
+- name: Prithisha Gill (She / Hers / Her)
+  is_pi: False
+  is_current: True
+  position: Undergraduate Student (September 2025 - Present)
+  orchid:
+  scholar:
+  researchgate:
+  github: 
+  twitter:
+  bio: >
+    Prithisha was born in Delhi, India. She is a fourth-year student studying Honours Biology at UBC Vancouver.
+    She joined the lab in September 2025, excited to strengthen her programming and research skills while exploring computational neuroscience.
+    She is currently gaining experience with Python, R, and lab techniques such as PCR, gel electrophoresis, and spectrometry.
+    In her spare time, Prithisha enjoys singing karaoke, hiking, badminton, photography, piano, reading, and discovering new coffee spots.
+  photo: team/Prithisha.png
 
 - name: Isabel Wilson (She / Hers / Her)
   is_pi: False
