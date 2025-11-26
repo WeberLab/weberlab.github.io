@@ -6,6 +6,10 @@ toggle: on
 rank: 8
 ---
 
+### Erhan Presenting His Lighting Talk at Brain, Behaviour \& Development Theme Research Day
+
+![erhanlightningtalk](./erhanlightning.jpeg) 
+
 ### Lab Outing 2025
 
 ![spanishbanks](lab_outing_2025_reduced.JPG)
