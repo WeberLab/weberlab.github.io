@@ -2,7 +2,7 @@
   is_pi: True
   is_current: True
   position: Assistant Professor (Partner)
-  orcid:  https://orcid.org/000-0001-7295-0775
+  orcid: https://orcid.org/000-0001-7295-0775
   scholar: https://scholar.google.ca/citations?user=nPuyG8gAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Alexander-Weber-7
   github: https://github.com/weberam2
@@ -29,7 +29,7 @@
   is_current: True
   position: INtegrated Student Program In Research Education (INSPIRE) / Undergraduate Student (November 2025 - Present)
   scholar:
-  github: 
+  github: https://github.com/Ranmo12
   twitter:
   bio: >
     Ran Mo was born in Brighton, UK, and moved to Canada in 2009. He is a 3rd year Microbiology & Immunology Major at UBC. He joined the lab in November 2025 as part of the INtegrated Student Program In Research Education (INSPIRE). He will be picking up where Floria left off with QSM data from preterm infants.
@@ -58,7 +58,7 @@
   orchid:
   scholar:
   researchgate:
-  github: 
+  github: https://github.com/pgill24
   twitter:
   bio: >
     Prithisha was born in Delhi, India. She is a fourth-year student studying Honours Biology at UBC Vancouver.
@@ -74,15 +74,14 @@
   orchid:
   scholar:
   researchgate:
-  github: 
+  github:
   twitter:
   bio: >
     Isabel was born and raised in Metro Vancouver and did her undergrad at UBC in Integrated Sciences (Neuroscience and Statistics). 
     To date, her work in neuroimaging has been through a cognitive science lens. She joined the Weber Lab in Sept 2024 because she wanted 
     to learn how the human brain can also be studied as a complex biological system. She is excited to be involved in a project measuring 
-    the power-law characteristics of the fMRI signal. To relax, Isabel walks, runs, reads, and plays pickleball. 
+    the power-law characteristics of the fMRI signal. To relax, Isabel walks, runs, reads, and plays pickleball.
   photo: team/Isabel.jpg
-  
 
 - name: Floria Lu (She / Hers / Her)
   is_pi: False
@@ -97,7 +96,7 @@
     Floria was born and mostly raised in Vancouver. She is currently a third-year Medical Laboratory Science undergraduate student at UBC. 
     She joined the lab in May 2024, hoping to learn more about research and neuroimaging, while helping the lab improve upon 
     various functions, such as writing and editing a lab manual; writing a mission/vision statement for the lab; learning how to build
-    a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama. 
+    a lab website and improving the current one. In her spare time, Floria enjoys drawing, playing the piano, dancing, and watching Kdrama.
   photo: team/Floria_Lu.jpg
 
 - name: Serafima Ermolenko  (She / Hers / Her)
@@ -113,7 +112,7 @@
     Sera was born in Pavlodar, Kazakhstan and lived in North Siberia, Russia before moving to Canada at the age of 6. She is a fourth year  
     undergraduate SFU student with two years in Molecular Biology and Biochemistry and two years in Computer Science. 
     Sera joined the lab in May 2024. Her project involves creating a signal processing tool in python for fMRI data. 
-    In her spare time, Sera enjoys skiing, hiking, travelling and reading. 
+    In her spare time, Sera enjoys skiing, hiking, travelling and reading.
   photo: team/Sera.jpg
 
 - name: Gavin Carmichael
@@ -156,11 +155,11 @@
   is_pi: False
   is_current: False
   position: Master's Student in Biomedical Engineering (August 2021 - August 2023)
-  orcid:  
-  scholar: 
-  researchgate: 
+  orcid:
+  scholar:
+  researchgate:
   github: https://github.com/acszhu
-  twitter: 
+  twitter:
   bio: >
     Anna was raised in Toronto, Ontario. She completed her undergraduate degree at the University of Toronto with
     a double Major in Neuroscience and Molecular Biology. Shortly after, she began working in the provincial 
@@ -180,11 +179,11 @@
   is_pi: False
   is_current: False
   position: Master's Student in Neuroscience (September 2021 - August 2023)
-  orcid:  
-  scholar: 
-  researchgate: 
+  orcid:
+  scholar:
+  researchgate:
   github: https://github.com/aemella
-  twitter: 
+  twitter:
   bio: >
     Allison was born and raised in Edmonton, Alberta. She completed her undergraduate degree at the University of 
     Alberta with a Bachelor of Science with Honors in Neuroscience. Afterwards, she worked as a research assistant for 
@@ -205,11 +204,11 @@
   is_pi: False
   is_current: False
   position: Master of Engineering Student in Biomedical Engineering (May 2021 - April 2022); Co-op Student (May 2020 - April 2021)
-  orcid: https://orcid.org/0000-0002-2628-2726 
-  scholar: 
-  researchgate: 
+  orcid: https://orcid.org/0000-0002-2628-2726
+  scholar:
+  researchgate:
   github: https://github.com/oliviacampbell1
-  twitter: 
+  twitter:
   bio: >
     Olivia was born and raised in Toronto, Ontario. She completed her undergraduate degree at UBC with a Combined Major in Life Science, Physics, and Computer Science. She joined the Weber Lab in April 2020 as a co-op student for two terms and stayed on part time as a Research Assistant. In May of 2021, she started her Masters of Applied Science in the School of Biomedical Engineering. Her project involves investigating the fractal nature of the BOLD signal of resting state functional MRI signals, and its clinical and neuroscience applications.
     <br>In her spare time, she enjoys running, hiking, surfing, cross-wording, travelling, and puzzles.
@@ -219,17 +218,16 @@
     <br>- Weber AM, Nightingale TE, Jarrett M, Lee AHX, <b>Campbell OL</b>, Walter M, Lucas SJE, Phillips A, Rauscher A, & Krassioukov AV. <a href="https://meridian.allenpress.com/tscir/article/30/2/78/500875">Cerebrovascular Reactivity Following Spinal Cord Injury.</a> <i>Topics in Spinal Cord Injury Rehabilitation</i>, May 2024; 30(2):78–95.
 
   photo: team/oliviacampbell.jpeg
-  
-  
+
 - name: Johann Drayne (He / His / Him)
   is_pi: False
   is_current: False
   position: Co-op Student (January 2021 - August 2021)
-  orcid:  
-  scholar: 
-  researchgate: 
+  orcid:
+  scholar:
+  researchgate:
   github: https://github.com/johann997
-  twitter: 
+  twitter:
   bio: >
     Johann was born and raised in County Antrim, Ireland. He has completed three years of my undergraduate degree in Physics at UBC, with one more to go. Johann joined the Weber Lab in January 2021 as a co-op student. His project involves looking at the connection between sucrose treatment for preterms newborns and their fractal resting state fMRI behaviour.
     <br>In his spare time, he enjoys running, walking, cooking, history, and electronics. 
@@ -237,4 +235,3 @@
     <br><b>Drayne JP</b>, Mella AE, McLean MM, Ufkes S, Chau V, Guo T, Branson HM, Kelly E, Miller SP, Grunau RE, & Weber AM. <a href="https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000024">Long-range temporal correlation development in resting-state fMRI signal in preterm infants: Scanned shortly after birth and at term-equivalent age</a> <i>PLOS Complex Systems</i>, December 2024; 1(4):e0000,024
 
   photo: team/johann.jpeg
-
