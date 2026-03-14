@@ -6,7 +6,11 @@ toggle: on
 rank: 8
 ---
 
-### Erhan Presenting His Lighting Talk at Brain, Behaviour \& Development Theme Research Day
+### Erhan and Ran Presenting Their Posters at the Cognitive Neuroscience Society (CNS) 2026 Annual Meeting
+
+![erhanrancns2026](./erhan_ran_cns2026.jpg)
+
+### Erhan Presenting His Lightning Talk at BCCHR Brain, Behaviour & Development Theme Research Day 2025
 
 ![erhanlightningtalk](./erhanlightning.jpeg) 
 
