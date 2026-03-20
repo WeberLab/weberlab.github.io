@@ -9,13 +9,15 @@ rank: 1
 <div class="lab-wrapper">
 
     <h2>Table of Contents</h2>
-    <ul>
+    <ol style="margin-top: 0; padding-left: 1.5rem;">
     {% for project in site.data.projects %}
         {% if project.name and project.description %}
-            <li><a href="#{{ project.name | slugify }}">{{ project.name }}</a></li>
+            <li style="margin-bottom: 0.2rem;">
+                <a href="#{{ project.name | slugify }}">{{ project.name }}</a>
+            </li>
         {% endif %}
     {% endfor %}
-    </ul>
+    </ol>
 
     <ul class="lab-list">
     {% for project in site.data.projects %}
