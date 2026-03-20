@@ -83,9 +83,9 @@
     and scanned at term-equivalent age at the same hospital and research MRI
     facility).
   funding: NSERC Discovery Grant
-  assignees: Floria Lu
+  assignees: Ran Mo, Floria Lu
   collaborators: 
-  photo: 
+  photo: projects/pretermbraininjurycomparison.png
 
 - name: Investigating Brain Dynamics and Power Law Scaling in fMRI BOLD Signals
   description: >
@@ -126,7 +126,7 @@
   funding: NSERC Discovery Grant; BCCH Foundation
   collaborators: 
   assignees: Erhan Asad Javed
-  photo: projects/estimateHurst.png
+  photo: projects/powerlawfitgraph.png
 
 
 - name: Functional, Metabolic, and Structural MRI Findings in Rett Syndrome
