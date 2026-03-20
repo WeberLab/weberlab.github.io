@@ -74,7 +74,8 @@
     existing datasets with SWI scans would allow researchers to quantify valuable
     information such as venous oxygenation, myelination, and iron levels
     retrospectively in hundreds of preterm and neonatal studies worldwide.
-    Feasibility All of the data has already been collected and is available to
+    <br>
+    Feasibility: All of the data has already been collected and is available to
     download from BCCHR’s XNAT server, meaning the most difficult part of the study
     has already concluded. If the pre-trained DL weights do not produce
     satisfactory images (i.e. result in noisy QSM images), we have access to
