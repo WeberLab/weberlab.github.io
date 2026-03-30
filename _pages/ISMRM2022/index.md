@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Conferences
-permalink: /conferences/
-toggle: on
+permalink: /ismrm2022/
+toggle: off
 rank: 7
 ---
 # **ISMRM 2022**
