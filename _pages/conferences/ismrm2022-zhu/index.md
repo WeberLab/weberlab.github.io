@@ -32,15 +32,27 @@ Approximately every 1 in 10 babies are born preterm1. About 50% display cognitiv
 
 To assess the feasibility of measuring CMRO2 in neonates using advanced MRI techniques, approximately 9 preterm neonates born <32 weeks gestation receiving standard clinical care in the NICU are being recruited at the Children's and Women's Health Centre of BC. 3D-T1w, 3DT2w, ASL and SWI/QSM sequences were obtained. MRI data was analyzed using a combination of FSL. ANTS, and in house Matlab and Python software and organized as per the Brain Imaging Data Structure (BIDS). T1w and T2w data was processed through the dHCP structural pipeline in order to obtain brain masks and grey matter segmentation. Cerebral blood flow (CBF) of grey matter is derived from ASL as shown in Equation (1)11:\
 
-<img src="https://render.githubusercontent.com/render/math?math=CBF=6000*\lambda\frac{  (1-\exp(-\frac{ST(s)}{T_{1t}(s)}))\exp(\frac{PLD(s)}{T_{1b}(s)})}{  2T_{1b}(s)(1-\exp(\frac{LT(s)}{T_{1b}(s)}))\epsilon*NEX_{PW}}(\frac{PW}{SF_{pw}PD})">\
+$$
+CBF = 6000 \cdot \lambda
+\frac{
+(1-\exp(-\frac{ST(s)}{T_{1t}(s)})) \exp(\frac{PLD(s)}{T_{1b}(s)})
+}{
+2T_{1b}(s)\left(1-\exp(\frac{LT(s)}{T_{1b}(s)})\right)\epsilon \cdot NEX_{PW}
+}
+\left(\frac{PW}{SF_{pw}PD}\right)
+$$
 
-The QSM data is post-processed using an algorithm from https://github.com/kamesy/QSM.m to produce a magnetic susceptibility map12. CSvO2 was derived from Equation (2)13:\
+The QSM data is post-processed using an algorithm from [QSM.m](https://github.com/kamesy/QSM.m) to produce a magnetic susceptibility map.^12^ CSvO2 was derived from Equation (2).^13^
 
-<img src="https://render.githubusercontent.com/render/math?math=SvO_{2}=1-(\triangle\chi_{blood}-\triangle\chi_{oxy}*Hct)/(\triangle\chi_{do}*Hct)">\
+$$
+SvO_{2} = 1 - \frac{\Delta\chi_{blood} - \Delta\chi_{oxy}\cdot Hct}{\Delta\chi_{do}\cdot Hct}
+$$
 
-Where χblood was taken to be the average of all χ above 0.15 ppm14. The oxygen extraction fraction (OEF) was calculated from the arterial oxygen saturation (SaO2) derived from pulse oximeter measurements and the CSvO2. Using the OEF, the CBF, and the hemoglobin concentration, CMRO2 is calculated using Equation (3)15:\
+Where $\chi_{blood}$ was taken to be the average of all $\chi$ above 0.15 ppm.^14^ The oxygen extraction fraction (OEF) was calculated from the arterial oxygen saturation (SaO2) derived from pulse oximeter measurements and the CSvO2. Using the OEF, the CBF, and the hemoglobin concentration, CMRO2 is calculated using Equation (3).^15^
 
-<img src="https://render.githubusercontent.com/render/math?math=CMRO_{2}=OE*CBF*[HbT]=(sO_{2,a}-sO_{2,v})*CBF*[HbT]">\
+$$
+CMRO_{2} = OEF \cdot CBF \cdot [HbT] = (sO_{2,a} - sO_{2,v}) \cdot CBF \cdot [HbT]
+$$
 
 The relationship between CMRO2 and clinical measures of health will be evaluated through a partial correlation analysis using statistical software R.
 
@@ -96,4 +108,4 @@ We would like to thank the BC Children's Hospital Research Institute and the BC 
 14. Weber AM, Zhang Y, Kames C, Rauscher A. Quantitative susceptibility mapping of venous vessels in neonates with perinatal asphyxia. AJNR Am J Neuroradiol. 2021;42(7):1327-1333.
 15. Chong SP, Merkle CW, Leahy C, Srinivasan VJ. Cerebral metabolic rate of oxygen (Cmro_2) assessed by combined Doppler and spectroscopic OCT. Biomed Opt Express. 2015;6(10):3941.
 
-[← Back to Conferences](/conferences/)
+[Back to Conferences](/conferences/)

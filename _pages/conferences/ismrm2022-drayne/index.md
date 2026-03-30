@@ -81,4 +81,4 @@ We found that the largest increase in the Hurst exponent was in the Visual and M
 16. M.-C. Lai, M. V. Lombardo, B. Chakrabarti, S. A. Sadek, G. Pasco, S. J. Wheelwright, E. T. Bullmore, S. Baron-Cohen, and J. S
 
 
-[← Back to Conferences](/conferences/)
+[Back to Conferences](/conferences/)

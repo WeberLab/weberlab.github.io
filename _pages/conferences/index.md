@@ -15,7 +15,6 @@ rank: 7
 4. [2022](#2022)
 5. [2021](#2021)
 
----
 
 ## 2026 <a name="2026"></a>
 
@@ -27,7 +26,6 @@ rank: 7
 
 _None listed._
 
----
 
 ## 2025 <a name="2025"></a>
 
@@ -39,19 +37,17 @@ _None listed._
 
 1. [**Javed EA & Weber AM.** *Developing a Rigorous Method for Detecting Power-Law Scaling and Critical Dynamics in fMRI Brain Signals.*](/conferences/bbd2025-javed/)
 
----
 
 ## 2023 <a name="2023"></a>
 
 ### Oral Presentations
 
-1. [**Mella AE & Weber AM.** *Altered Brain Signaling Complexity in Preterm-born and Term-born Infants at Term Age: A Functional MRI Study.*](/conferences/ismrm2023-mella/)
+1. **Mella AE & Weber AM.** *Altered Brain Signaling Complexity in Preterm-born and Term-born Infants at Term Age: A Functional MRI Study.*
 
 ### Poster Presentations
 
 _None listed._
 
----
 
 ## 2022 <a name="2022"></a>
 
@@ -65,13 +61,12 @@ _None listed._
 
 2. [**Campbell O, Vanderwal T, & Weber AM.** *Fractal-Based Analysis of fMRI BOLD Signal During Naturalistic Viewing Conditions.*](/conferences/ismrm2022-campbell/)
 
----
 
 ## 2021 <a name="2021"></a>
 
 ### Oral Presentations
 
-1. [**Campbell O, Vanderwal T, & Weber AM.** *Fractal-Based Analysis of Movie Watching vs. Eyes-open Resting State Reveals Widespread Differences in fMRI Signal Complexity.*](/conferences/bbd2021-campbell/)
+1. **Campbell O, Vanderwal T, & Weber AM.** *Fractal-Based Analysis of Movie Watching vs. Eyes-open Resting State Reveals Widespread Differences in fMRI Signal Complexity.*
 
 ### Poster Presentations
 
