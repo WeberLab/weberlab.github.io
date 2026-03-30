@@ -43,7 +43,7 @@ We implemented a comprehensive analysis framework in Python that integrates simu
 
 Preprocessing techniques—Bridge detrending, windowing, and their combination (Bridge Window Detrend, BWD)—were systematically tested for their impact on estimation accuracy . Scaling exponents (β) were extracted via log–log linear regression of PSDs , and Monte Carlo testing against null simulations (n = 500–2500) was used to validate whether each signal’s PSD slope conformed to a true power-law . Classification between fGn and fBm was based on being greater or less than 1.
 
-To improve stability in real data, an automated frequency-window selection routine was introduced to identify the optimal PSD range for fitting, prioritizing windows with high p-values, broad log-frequency spans, and strong correlations (|R|). The finalized pipeline was applied to voxelwise resting-state fMRI data after standard preprocessing and normalization.
+To improve stability in real data, an automated frequency-window selection routine was introduced to identify the optimal PSD range for fitting, prioritizing windows with high p-values, broad log-frequency spans, and strong correlations (R). The finalized pipeline was applied to voxelwise resting-state fMRI data after standard preprocessing and normalization.
 
 ### Results
 
