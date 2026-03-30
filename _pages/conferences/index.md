@@ -6,8 +6,6 @@ toggle: on
 rank: 7
 ---
 
-# Conferences
-
 ## Table of Contents
 1. [2026](#2026)
 2. [2025](#2025)
@@ -20,12 +18,11 @@ rank: 7
 
 ### Oral Presentations
 
-1. [**Javed EA & Weber AM.** *A Rigorous Method for Measuring Power-Law Scaling Properties in fMRI Brain Signals.*](/conferences/ismrm2026-javed/)
+_None listed._
 
 ### Poster Presentations
 
-_None listed._
-
+1. [**Javed EA & Weber AM.** *A Rigorous Method for Measuring Power-Law Scaling Properties in fMRI Brain Signals.*](/conferences/ismrm2026-javed/)
 
 ## 2025 <a name="2025"></a>
 
