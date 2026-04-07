@@ -14,7 +14,6 @@ permalink: /conferences/bbd2025-javed/
 **Institution:** BC Children’s Hospital Research Institute  
 **Location:** Vancouver, BC  
 **Date:** Monday, November 24, 2025  
-**Presentation Type:** Poster Presentation
 
 ### Abstract
 
