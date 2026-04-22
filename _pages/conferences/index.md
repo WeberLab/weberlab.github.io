@@ -16,7 +16,7 @@ rank: 7
 
 ### Oral Presentations
 
-1. **WCUCC 2026:** [**Mo R, Weber AM.** *The Role of Non-heme Iron in Deep Grey Matter Structures in Preterm Infants following Brain Injury.*](/conferences/wcucc2026-mo/) Oral presentation; poster also accepted.
+1. **WCUCC 2026:** [**Mo R, Lu F, Chau C, Ufkes S, van Dyk J, Miller S, Grunau R, & Weber AM.** *The Role of Non-heme Iron in Deep Grey Matter Structures in Preterm Infants following Brain Injury.*](/conferences/wcucc2026-mo/) Oral presentation; poster also accepted.
 
 ### Poster Presentations
 
