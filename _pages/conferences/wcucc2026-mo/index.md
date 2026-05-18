@@ -10,13 +10,13 @@ permalink: /conferences/wcucc2026-mo/
 
 ### Presentation Info
 
-**Event:** 2026 Western Canadian Undergraduate Chemistry Conference
-**Institution:** University of British Columbia - Vancouver Campus
-**Location:** Vancouver, BC
-**Date:** May 16-18, 2026
-**Presentation Dates:** Sunday, May 17, 2026
-**Presentation Types:** Poster Presentation and Oral Presentation
-**Poster Session:** Day 2 Poster Session
+**Event:** 2026 Western Canadian Undergraduate Chemistry Conference   
+**Institution:** University of British Columbia - Vancouver Campus  
+**Location:** Vancouver, BC  
+**Date:** May 16-18, 2026  
+**Presentation Dates:** Sunday, May 17, 2026  
+**Presentation Types:** Poster Presentation and Oral Presentation  
+**Poster Session:** Day 2 Poster Session  
 
 ### Abstract
 
