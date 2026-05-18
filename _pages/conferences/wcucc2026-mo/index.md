@@ -6,15 +6,17 @@ permalink: /conferences/wcucc2026-mo/
 
 ## The Role of Non-heme Iron in Deep Grey Matter Structures in Preterm Infants following Brain Injury
 
-**Ran Mo**, BC Children's Hospital Research Institute; Floria Lu, BC Children's Hospital Research Institute; Cecil Chau, BC Children's Hospital Research Institute; Steven Ufkes, BC Children's Hospital Research Institute; Jessie van Dyk, BC Children's Hospital Research Institute; Steven Miller, BC Children's Hospital Research Institute; Ruth Grunau, BC Children's Hospital Research Institute; Alexander Mark Weber, BC Children's Hospital Research Institute
+**Ran Mo**, BC Children's Hospital Research Institute; Floria Lu, BC Children's Hospital Research Institute; Cecil Chau, BC Children's Hospital Research Institute; Steven Ufkes, BC Children's Hospital Research Institute; Jessie van Dyk, BC Children's Hospital Research Institute; Steven Miller, BC Children's Hospital Research Institute; Ruth Grunau, BC Children's Hospital Research Institute; **Alexander Mark Weber**, BC Children's Hospital Research Institute
 
 ### Presentation Info
 
-**Event:** 2026 Western Canadian Undergraduate Chemistry Conference  
-**Institution:** University of British Columbia - Vancouver Campus  
-**Location:** Vancouver, BC  
-**Date:** May 16-18, 2026  
-**Session:** TBA
+**Event:** 2026 Western Canadian Undergraduate Chemistry Conference
+**Institution:** University of British Columbia - Vancouver Campus
+**Location:** Vancouver, BC
+**Date:** May 16-18, 2026
+**Presentation Dates:** Sunday, May 17, 2026
+**Presentation Types:** Poster Presentation and Oral Presentation
+**Poster Session:** Day 2 Poster Session
 
 ### Abstract
 
