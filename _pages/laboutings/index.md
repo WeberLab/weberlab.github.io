@@ -6,6 +6,14 @@ toggle: on
 rank: 8
 ---
 
+### Erhan Presenting His Poster at the 2026 ISMRM & ISMRT Annual Meeting & Exhibition in Cape Town, South Africa
+
+![erhanismrm2026](./erhan_ismrm_2026.jpg)
+
+### Ran Presenting His Oral Presentation at the 2026 Western Canadian Undergraduate Chemistry Conference (WCUCC)
+
+![ranwcucc2026](./ran_wcucc_2026.jpg)
+
 ### Erhan and Ran Presenting Their Posters at the Cognitive Neuroscience Society (CNS) 2026 Annual Meeting
 
 ![erhanrancns2026](./erhan_ran_cns2026.jpg)
