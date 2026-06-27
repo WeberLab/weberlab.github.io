@@ -9,6 +9,14 @@ rank: 5
 If this page hasn't been updated in a while, you can find an up-to-date publication list on [Dr. Weber's Google Scholar page](https://scholar.google.com/citations?hl=en&user=nPuyG8gAAAAJ&view_op=list_works&sortby=pubdate)  
 \*Authors contributed equally; members of the Weber lab indicated in **boldface**
 
+## 2026
+
+### [Does the brain's E:I balance really shape long-range temporal correlations? Lessons learned from 3T MRI](https://doi.org/10.1162/IMAG.a.1252)
+
+Sochan L, Archibald J, **Weber AM**. _Imaging Neuroscience_ 4: IMAG.a.1252. May 29, 2026.
+
+![sochan](./sochan.png){: width="600" }
+
 ## 2025
 
 ### [Regional Cerebral Metabolic Rate of Oxygen and Levels of Respiratory Support in Preterm Neonates.](http://doi.org/10.1002/nbm.70065)
