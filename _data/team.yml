@@ -53,8 +53,8 @@
 
 - name: Prithisha Gill (She / Hers / Her)
   is_pi: False
-  is_current: True
-  position: Undergraduate Student (September 2025 - Present)
+  is_current: False
+  position: Undergraduate Student (September 2025 - April 2026)
   orchid:
   scholar:
   researchgate:
