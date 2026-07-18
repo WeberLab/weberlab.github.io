@@ -12,7 +12,7 @@ permalink: /conferences/bcchr2026-mo/
 
 ### Presentation Info
 
-**Conference:** BCCHR Summer Student Research Program Poster Day 2026
+**Conference:** BCCHR Summer Student Research Program Poster Day 2026    
 **Session:** In-Person Presentations - Session #3  
 **Time:** 9:00 - 10:15 am  
 **Location:** SHY Auditorium  
