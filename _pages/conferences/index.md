@@ -30,6 +30,8 @@ rank: 7
 
 5. **COINN 2026:** **McLean MA, Armour UE, Weinberg J, Miller SP, Grunau RE, & Weber AM.** *Early Analgesia and Sedation Are Related to Altered Brain Efficiency and Hpa-Axis Activity in Very Preterm Children at School Age.*
 
+6. **Summer Student Research Program Poster Day 2026:** [**Mo R, Lu F, Chau C, Ufkes S, van Dyk J, Miller S, Grunau R, & Weber AM.** *Investigating Age- and Injury-Related Changes in Non-heme Iron and Myelin in Deep Grey Matter Structures in Very and Extremely Preterm Neonates using QSM.*](/conferences/bcchr2026-mo/)
+
 ## 2025 <a name="2025"></a>
 
 ### Oral Presentations
