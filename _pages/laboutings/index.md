@@ -8,7 +8,7 @@ rank: 8
 
 ### Ran Presenting His Poster at the BCCHR Summer Student Research Program Poster Day 2026
 
-![erhanismrm2026](./ran_bcchr_2026.jpg)
+![ranbcchr2026](./ran_bcchr_2026.jpg)
 
 ### Erhan Presenting His Poster at the 2026 ISMRM & ISMRT Annual Meeting & Exhibition in Cape Town, South Africa
 
