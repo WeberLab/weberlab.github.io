@@ -24,6 +24,18 @@
 
   photo: team/Weber_Alexander_Nov_2019_Photoshoot_5_improved_small.jpg
 
+- name: Iman Umair-Qaiser (She / Her / Hers)
+  is_pi: False
+  is_current: True
+  position: MASc Student (September 2026 - Present)
+  scholar:
+  github:
+  twitter:
+  bio: >
+    Iman was born in Mississauga, ON, and is a 1st year MASc student in Biomedical Engineering at UBC Vancouver. She has a background in machine learning, data analysis, and signal processing, and joined the lab hoping to build on this with fMRI analysis, biomedical image analysis, and medical device development.
+    Outside of academics, Iman enjoys reading, creative writing, astronomy, board games, video games, and photography.
+  photo: team/Iman.jpeg
+
 - name: Ran Mo (He / His / Him)
   is_pi: False
   is_current: True
